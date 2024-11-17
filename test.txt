@@ -9,7 +9,7 @@ Penthouse HD,http://31.131.136.4:8000/play/a003
 Hustler HD,http://31.131.136.4:8000/play/a00g
 Redlight HD,http://31.131.136.4:8000/play/a004
 Playboy HD,http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-⛔福利彩蛋_686868,#genre# 
+⛔福利彩蛋,#genre# 
 苍井空_无码,https://video32.bpzy1.com/video/20220601/1944fea4bf41e7cc2ab45144611c739f/index.m3u8
 水端麻美_美丽的邻居夫人,https://video.zmwbf.com/20230601/YzEyMGFiOT/215434/720/hls/encrypt/index.m3u8
 水端麻美_妻子怀孕岳母被中出,https://play4.laoyacdn.com/20231202/8f2oey4K/index.m3u8
@@ -34,7 +34,7 @@ HAPPY,http://135.148.104.228:19806/7b02a03ce3094b4e84f883565805f3a4
 K频道,http://135.148.104.228:19806/1aec46d506634015a1276c5e4d846976
 
 
-会员1_00000,#genre#
+会员1,#genre#
 潘多拉粉红,http://sl.tmtv.me/20201226/ubtl.php?cid=411#p5p://0818.02686.cc:20012/5f3f26e00005c41d0a2fc74dc6d2ac31
 一本道,http://video1.rhsj520.com:8091/nyrm3/20180105/3/050313-328/1500kb/hls/index.m3u8
 二本道,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0431_full/1500kb/hls/index.m3u8
@@ -153,7 +153,7 @@ K频道,p5p://174.128.239.250:16871/5d25b7e5000ad9f60a2fc2f2dffda85a.ts
 HAPPY,rtmp://161.202.204.248:1935/tv/ttv12
 
 
-会员2_00000,#genre#
+会员2,#genre#
 🔞香蕉台,p8p://0818.02686.cc:20012/5f3f24c1000af48d0a277f8997de9d5f.ts#rtmp://v3948069e.live.126.net/live/fwq5/RHK32rhg
 🔞松视1,p8p://0818.02686.cc:20012/5f3f2c2b000f126c0a4476a7dee5d96c.ts#vjms://50.7.253.59:8500/live/cid=262#mitv://ns2.hellotvvod.com:9906/5f897f67000298ef2eafc978696968c5.ts
 🔞松视2,p8p://0818.02686.cc:20012/5f486541000e03532e4b74511bfe562e.ts#vjms://50.7.253.59:8500/live/cid=267#mitv://ns2.hellotvvod.com:9906/5f89837900017eef2ebfaf7a483e2b6a.ts
@@ -180,7 +180,7 @@ HAPPY,rtmp://161.202.204.248:1935/tv/ttv12
 
 
 
-会员3视频_00000,#genre#
+会员3视频,#genre#
 美雲あい,https://www.ugbcdn.com/20201225/mEYRxQPe/index.m3u8
 橋本玲美,https://www.ugbcdn.com/20201225/HEonUPSq/index.m3u8
 豊田ゆう,https://www.ugbcdn.com/20201225/WJ4vKKiO/index.m3u8
