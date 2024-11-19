@@ -1,129 +1,71 @@
-000yuechan,#genre# 
-Desire,http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
-Brazzers,http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
-Dorcel,http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
-Eroxxx,http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
-Extasy,http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
-Erox HD,http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
-Penthouse HD,http://31.131.136.4:8000/play/a003
-Hustler HD,http://31.131.136.4:8000/play/a00g
-Redlight HD,http://31.131.136.4:8000/play/a004
-Playboy HD,http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+001reklama欧美, #genre#
+AdultIPTV.net Live Cams,https://live.adultiptv.net/livecams.m3u8
+AdultIPTV.net Live Cams,https://live.redtraffic.net/livecams.m3u8
+AdultIPTV.net MILF,https://live.adultiptv.net/milf.m3u8
+AdultIPTV.net MILF,https://live.redtraffic.net/milf.m3u8
+AdultIPTV.net Big Dick,https://live.adultiptv.net/bigdick.m3u8
+AdultIPTV.net Big Dick,https://live.redtraffic.net/bigdick.m3u8
+AdultIPTV.net Big Tits,https://live.adultiptv.net/bigtits.m3u8
+AdultIPTV.net Big Tits,https://live.redtraffic.net/bigtits.m3u8
+AdultIPTV.net Fetish,https://live.adultiptv.net/fetish.m3u8
+AdultIPTV.net Fetish,https://live.redtraffic.net/fetish.m3u8
+AdultIPTV.net Pornstar,https://live.adultiptv.net/pornstar.m3u8
+AdultIPTV.net Pornstar,https://live.redtraffic.net/pornstar.m3u8
+AdultIPTV.net Big Ass,https://live.adultiptv.net/bigass.m3u8
+AdultIPTV.net Big Ass,https://live.redtraffic.net/bigass.m3u8
+AdultIPTV.net Interracial,https://live.adultiptv.net/interracial.m3u8
+AdultIPTV.net Interracial,https://live.redtraffic.net/interracial.m3u8
+AdultIPTV.net Latina,https://live.adultiptv.net/latina.m3u8
+AdultIPTV.net Latina,https://live.redtraffic.net/latina.m3u8
+AdultIPTV.net POV,https://live.adultiptv.net/pov.m3u8
+AdultIPTV.net POV,https://live.redtraffic.net/pov.m3u8
+AdultIPTV.net Blowjob,https://live.adultiptv.net/blowjob.m3u8
+AdultIPTV.net Blowjob,https://live.redtraffic.net/blowjob.m3u8
+AdultIPTV.net Teen,https://live.adultiptv.net/teen.m3u8
+AdultIPTV.net Teen,https://live.redtraffic.net/teen.m3u8
+AdultIPTV.net Hardcore,https://live.adultiptv.net/hardcore.m3u8
+AdultIPTV.net Hardcore,https://live.redtraffic.net/hardcore.m3u8
+AdultIPTV.net Cuckold,https://live.adultiptv.net/cuckold.m3u8
+AdultIPTV.net Cuckold,https://live.redtraffic.net/cuckold.m3u8
+AdultIPTV.net Threesome,https://live.adultiptv.net/threesome.m3u8
+AdultIPTV.net Threesome,https://live.redtraffic.net/threesome.m3u8
+AdultIPTV.net Russian,https://live.adultiptv.net/russian.m3u8
+AdultIPTV.net Russian,https://live.redtraffic.net/russian.m3u8
+AdultIPTV.net Lesbian,https://live.adultiptv.net/lesbian.m3u8
+AdultIPTV.net Lesbian,https://live.redtraffic.net/lesbian.m3u8
+AdultIPTV.net Rough,https://live.adultiptv.net/rough.m3u8
+AdultIPTV.net Rough,https://live.redtraffic.net/rough.m3u8
+AdultIPTV.net Gangbang,https://live.adultiptv.net/gangbang.m3u8
+AdultIPTV.net Gangbang,https://live.redtraffic.net/gangbang.m3u8
+AdultIPTV.net Anal,https://live.adultiptv.net/anal.m3u8
+AdultIPTV.net Anal,https://live.redtraffic.net/anal.m3u8
+AdultIPTV.net Compilation,https://live.adultiptv.net/compilation.m3u8
+AdultIPTV.net Compilation,https://live.redtraffic.net/compilation.m3u8
+AdultIPTV.net Brunette,https://live.adultiptv.net/brunette.m3u8
+AdultIPTV.net Brunette,https://live.redtraffic.net/brunette.m3u8
+AdultIPTV.net Blonde,https://live.adultiptv.net/blonde.m3u8
+AdultIPTV.net Blonde,https://live.redtraffic.net/blonde.m3u8
+AdultIPTV.net Gay,https://live.adultiptv.net/gay.m3u8
+AdultIPTV.net Gay,https://live.redtraffic.net/gay.m3u8
+AdultIPTV.net Asian,https://live.adultiptv.net/asian.m3u8
+AdultIPTV.net Asian,https://live.redtraffic.net/asian.m3u8
 
-日本,#genre# 
-苍井空_无码,https://video32.bpzy1.com/video/20220601/1944fea4bf41e7cc2ab45144611c739f/index.m3u8
-水端麻美_美丽的邻居夫人,https://video.zmwbf.com/20230601/YzEyMGFiOT/215434/720/hls/encrypt/index.m3u8
-水端麻美_妻子怀孕岳母被中出,https://play4.laoyacdn.com/20231202/8f2oey4K/index.m3u8
-东条夏,https://video.zmwbf.com/20230325/NjJhZWFmNG/162721/1280/hls/encrypt/index.m3u8
-东条夏-和妹妹欲望释出,https://lsbbf2.com/20240725/jcFJIOl3/index.m3u8
-我被姐姐的同学改造,https://video.zmwbf.com/20221209/M2Q1N2NiOG/202002/1280/hls/encrypt/index.m3u8
-时隔十年姐弟洗澡,https://video.zmwbf.com/20231106/ZWRjZjNiZT/093407/720/hls/encrypt/index.m3u8
+002godhand欧美, #genre#
+Playboy (+18) | HD,https://edge3.prepro.cvattv.com.ar/live/vod/Playboy/SA_Live_WebVTT_FTA/Playboy.m3u8
+VENUS - USA (+18) | HD,https://edge4-sl.cvattv.com.ar/live/c6eds/Venus/SA_SAGEMCOM/Venus.m3u8
+A3BIKINI - USA (+18) | HD,https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
+TV Adultos POV (+18) | HD,http://cdn.adultiptv.net/pov.m3u8?PlaylistM3UCL
+TV Adultos Teens (+18) | HD,http://cdn.adultiptv.net/teen.m3u8?PlaylistM3UCL
+TV Adultos GangBang (+18) | HD,http://cdn.adultiptv.net/gangbang.m3u8?PlaylistM3UCL
+TV Adultos Brunette (+18) | HD,http://cdn.adultiptv.net/brunette.m3u8?PlaylistM3UCL
+TV Adultos Blonde (+18) | HD,http://cdn.adultiptv.net/blonde.m3u8?PlaylistM3UCL
+TV Adultos Live Cams (+18) | HD,http://cdn.adultiptv.net/livecams.m3u8?PlaylistM3UCL
+TV Adultos Latina (+18) | HD,http://cdn.adultiptv.net/latina.m3u8?PlaylistM3UCL
+TV Adultos MILF (+18) | HD,http://cdn.adultiptv.net/milf.m3u8?PlaylistM3UCL
+TV Adultos Pornstars (+18) | HD,http://cdn.adultiptv.net/pornstar.m3u8?PlaylistM3UCL
 
 
-
-测试频道👉转播,#genre#
-⑥春盈天下线路1,mitv://135.148.104.228:19806/faf51cf453a84400be019b14939e49f6
-⑥春盈天下线路2,mitv://147.135.39.171:9906/65fd6048000be8b2a085bc4d061c504d
-⑥春盈转播线路1,https://yyy.jkangys.com/lives/123678.m3u8
-⑥春盈转播线路2,https://vdm6-ali.wujiekeji1.com/live/h6-2.flv
-⑥春盈转播线路3,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
-⑥香港21:30八五,rtmp://ccc.jihbcr.com/live/kkk
-
-@新熬21:31一三,https://play666.macau-lhc.live/live/mosixmark.flv
-@新熬21:31一七,https://play888.00853lhc.live/live/mosixmark.flv
-@新熬21:31三三,https://play888.00853lhc.live/live/mosixmark.flv?t=1710336821937
-
-@老熬21:32一二,https://vdm6-ali.oujinghb.com/live/2032-2.flv
-@老熬21:32采家,https://vdm6-hw.qunleniuniu.com/live/2032-2.flv
-@老熬21:32一三,https://vdm6-ali.hrypl168.com/live/a6.flv
-@老熬21:32播放,https://vdm6-ali.kavimmensucat.com/live/2032-2.flv
-
-春盈天下频道,#genre#
-欧美频道1,http://cdn.adultiptv.net/bigass.m3u8 
-欧美频道2,http://cdn.adultiptv.net/blowjob.m3u8 
-欧美频道3,http://cdn.adultiptv.net/latina.m3u8 
-欧美频道4,http://cdn.adultiptv.net/fetish.m3u8 
-欧美频道5,http://cdn.adultiptv.net/gay.m3u8 
-欧美频道6,http://cdn.adultiptv.net/interracial.m3u8 
-欧美频道7,http://cdn.adultiptv.net/threesome.m3u8 
-欧美频道8,http://cdn.adultiptv.net/pornstar.m3u8 
-欧美频道9,http://cdn.adultiptv.net/milf.m3u8 
-欧美频道10,http://cdn.adultiptv.net/teen.m3u8 
-欧美频道11,http://cdn.adultiptv.net/anal.m3u8
-欧美频道12,http://cdn.adultiptv.net/asian.m3u8
-欧美频道13,http://cdn.adultiptv.net/bigass.m3u8
-欧美频道14,http://cdn.adultiptv.net/bigtits.m3u8
-欧美频道15,http://cdn.adultiptv.net/blonde.m3u8
-欧美频道16,http://cdn.adultiptv.net/blowjob.m3u8 
-欧美频道17,http://cdn.adultiptv.net/brunette.m3u8
-欧美频道18,http://cdn.adultiptv.net/compilation.m3u8
-欧美频道19,http://cdn.adultiptv.net/cuckold.m3u8
-欧美频道20,http://cdn.adultiptv.net/fetish.m3u8
-欧美频道21,http://cdn.adultiptv.net/gangbang.m3u8
-欧美频道22,http://cdn.adultiptv.net/gay.m3u8
-欧美频道23,http://cdn.adultiptv.net/hardcore.m3u8
-欧美频道24,http://cdn.adultiptv.net/interracial.m3u8
-欧美频道25,http://cdn.adultiptv.net/latina.m3u8
-欧美频道26,http://cdn.adultiptv.net/lesbian.m3u8
-欧美频道27,http://cdn.adultiptv.net/livecams.m3u8
-欧美频道28,http://cdn.adultiptv.net/milf.m3u8
-欧美频道29,http://cdn.adultiptv.net/pornstar.m3u8
-欧美频道30,http://cdn.adultiptv.net/pov.m3u8
-欧美频道31,http://cdn.adultiptv.net/rough.m3u8
-欧美频道32,http://cdn.adultiptv.net/russian.m3u8
-欧美频道33,http://cdn.adultiptv.net/teen.m3u8
-欧美频道34,http://cdn.adultiptv.net/brunette.m3u8
-欧美频道35,http://cdn.adultiptv.net/bigtits.m3u8 
-欧美频道36,http://cdn.adultiptv.net/rough.m3u8 
-欧美频道37,http://cdn.adultiptv.net/brunette.m3u8 
-果凍傳媒01,https://video2.51daao.com/btt1/2021/03/20210315/nqgw0eJK/index.m3u8
-果凍傳媒02,https://video2.51daao.com/btt1/2021/03/20210309/rwTpu16k/index.m3u8
-果凍傳媒03,https://video2.51daao.com/btt1/2021/03/20210309/WQ1u7YIC/index.m3u8
-果凍傳媒04,https://video2.51daao.com/btt1/2021/03/20210305/DkRXRNsh/index.m3u8
-果凍傳媒05,https://video2.51daao.com/btt1/2021/03/20210305/SuAEPEkH/index.m3u8
-果凍傳媒06,https://video2.51daao.com/btt1/2021/02/20210227/DzukV364/index.m3u8
-果凍傳媒07,https://video2.51daao.com/btt1/2021/02/20210222/hqS0Umq4/index.m3u8
-果凍傳媒08,https://video2.51daao.com/btt1/2021/02/20210212/gH5O6gOq/index.m3u8
-果凍傳媒09,https://video2.51daao.com/btt1/2021/02/20210212/rNSmBLwV/index.m3u8
-果凍傳媒10,https://video2.51daao.com/btt1/2021/02/20210207/4sqrcOu9/index.m3u8
-果凍傳媒11,https://video2.51daao.com/btt1/2021/02/20210207/lX1stcnL/index.m3u8
-果凍傳媒12,https://video2.51daao.com/btt1/2021/02/20210207/hwYZiYZS/index.m3u8
-果凍傳媒13,https://video2.51daao.com/btt1/2021/02/20210207/wNtvObEg/index.m3u8
-果凍傳媒14,https://video2.51daao.com/btt1/2021/01/20210130/ujDdta8s/index.m3u8
-果凍傳媒15,https://video2.51daao.com/btt1/2021/01/20210129/02gDjV83/index.m3u8
-果凍傳媒16,https://video2.51daao.com/btt1/2021/01/20210128/GpjqOwp7/index.m3u8
-果凍傳媒17,https://video2.51daao.com/btt1/2021/01/20210128/yvyxolSA/index.m3u8
-果凍傳媒18,https://video2.51daao.com/btt1/2021/01/20210128/uAjfPHbd/index.m3u8
-果凍傳媒19,https://video2.51daao.com/btt1/2021/01/20210127/e4nE3H52/index.m3u8
-果凍傳媒20,https://video2.51daao.com/btt1/2021/01/20210127/hP1ODvoI/index.m3u8
-果凍傳媒21,https://video2.51daao.com/btt1/2021/01/20210120/vgWAYAZo/index.m3u8
-果凍傳媒22,https://video2.51daao.com/btt1/2021/01/20210120/2dWWoQtk/index.m3u8
-果凍傳媒23,https://video2.51daao.com/btt1/2021/01/20210120/rM4SLnCz/index.m3u8
-果凍傳媒24,https://video2.51daao.com/btt1/2021/01/20210120/Mi91NxkJ/index.m3u8
-國產源擼閣①,https://lbbf9.com/20191102/8tOZ9w12/index.m3u8
-國產源擼閣②,https://lbbf9.com/20191030/hwjpxFVH/index.m3u8
-國產源擼閣③,https://lbbf9.com/20191030/8Zgys1TO/index.m3u8
-國產源擼閣④,https://lajiao-bo.com/20190501/HtOWsWii/index.m3u8
-國產源擼閣⑤,https://lbbf9.com/20191031/MS9Rth4m/index.m3u8
-國產源擼閣⑥,https://lbbf9.com/20191029/Nh4ivuGD/index.m3u8
-國產源擼閣⑦,https://lbbf9.com/20191027/Ng1QIETF/index.m3u8
-國產源擼閣⑧,https://lbbf9.com/20191112/mHGSHyLg/index.m3u8
-國產源擼閣⑩,https://lbbf9.com/20191112/hritZ6s1/index.m3u8
-童心未泯國產源①,https://lbbf9.com/20191113/Z5tt1lLV/index.m3u8
-童心未泯國產源②,https://lbbf9.com/20191113/te2K6ssy/index.m3u8
-童心未泯國產源⑤,https://lbbf9.com/20191113/blhH8Gfa/index.m3u8
-童心未泯國產源⑥,https://lbbf9.com/20191113/70oWnMVT/index.m3u8
-童心未泯國產源⑦,https://lbbf9.com/20191113/HQWapd2G/index.m3u8
-童心未泯國產源⑧,https://lbbf9.com/20191113/1Zdq30pq/index.m3u8
-童心未泯國產源⑨,https://lbbf9.com/20191030/uRLVDUbl/index.m3u8
-童心未泯國產源⑩,https://lbbf9.com/20191030/NViQtRx2/index.m3u8
-赢乱4P三儿媳,https://t10t13t16.cdn2020.com/video/m3u8/2021/12/05/373d172b/index.m3u8
-松視2频道,https://z100.cdn2020.com/video/m3u8/2020/07/23/7029e94d/index.m3u8
-北条麻妃美,https://vip3.lbbf9.com/20220109/mTNDPovo/1000kb/hls/index.m3u8
-玉求不满大儿媳,https://t10t13t16.cdn2020.com/video/m3u8/2021/11/21/d43f19e7/index.m3u8
-公公双飞二儿媳,https://t10t13t16.cdn2020.com/video/m3u8/2021/11/30/4dfb9409/index.m3u8
-
-拾光开心内,#genre#
+003拾光开心内,#genre#
 潘多拉完美,p3p://108.181.20.﻿159:37916/5fe4450c000c918b829fca233c845311
 香蕉,p3p://108.181.20.﻿159:37916/60626a760005067e6f5bbecb5816771e
 松视1,p3p://108.181.20.﻿159:37916/5fe445280008a40682a0367c343436bb
@@ -272,76 +214,192 @@ MOM TEACH SEX,p3p://fccsen.dyndns.tv:29706/615a6095000f18a6b9daef7b58eb58ee
 借枪,p3p://108.181.20.﻿159:37916/61ea1f1a000cbbc76962a13839ae06e4
 潜伏,p3p://108.181.20.﻿159:37916/61ea1d5200061ecb695baa4c433c4e8d
 
-reklama欧美, #genre#
-AdultIPTV.net Live Cams,https://live.adultiptv.net/livecams.m3u8
-AdultIPTV.net Live Cams,https://live.redtraffic.net/livecams.m3u8
-AdultIPTV.net MILF,https://live.adultiptv.net/milf.m3u8
-AdultIPTV.net MILF,https://live.redtraffic.net/milf.m3u8
-AdultIPTV.net Big Dick,https://live.adultiptv.net/bigdick.m3u8
-AdultIPTV.net Big Dick,https://live.redtraffic.net/bigdick.m3u8
-AdultIPTV.net Big Tits,https://live.adultiptv.net/bigtits.m3u8
-AdultIPTV.net Big Tits,https://live.redtraffic.net/bigtits.m3u8
-AdultIPTV.net Fetish,https://live.adultiptv.net/fetish.m3u8
-AdultIPTV.net Fetish,https://live.redtraffic.net/fetish.m3u8
-AdultIPTV.net Pornstar,https://live.adultiptv.net/pornstar.m3u8
-AdultIPTV.net Pornstar,https://live.redtraffic.net/pornstar.m3u8
-AdultIPTV.net Big Ass,https://live.adultiptv.net/bigass.m3u8
-AdultIPTV.net Big Ass,https://live.redtraffic.net/bigass.m3u8
-AdultIPTV.net Interracial,https://live.adultiptv.net/interracial.m3u8
-AdultIPTV.net Interracial,https://live.redtraffic.net/interracial.m3u8
-AdultIPTV.net Latina,https://live.adultiptv.net/latina.m3u8
-AdultIPTV.net Latina,https://live.redtraffic.net/latina.m3u8
-AdultIPTV.net POV,https://live.adultiptv.net/pov.m3u8
-AdultIPTV.net POV,https://live.redtraffic.net/pov.m3u8
-AdultIPTV.net Blowjob,https://live.adultiptv.net/blowjob.m3u8
-AdultIPTV.net Blowjob,https://live.redtraffic.net/blowjob.m3u8
-AdultIPTV.net Teen,https://live.adultiptv.net/teen.m3u8
-AdultIPTV.net Teen,https://live.redtraffic.net/teen.m3u8
-AdultIPTV.net Hardcore,https://live.adultiptv.net/hardcore.m3u8
-AdultIPTV.net Hardcore,https://live.redtraffic.net/hardcore.m3u8
-AdultIPTV.net Cuckold,https://live.adultiptv.net/cuckold.m3u8
-AdultIPTV.net Cuckold,https://live.redtraffic.net/cuckold.m3u8
-AdultIPTV.net Threesome,https://live.adultiptv.net/threesome.m3u8
-AdultIPTV.net Threesome,https://live.redtraffic.net/threesome.m3u8
-AdultIPTV.net Russian,https://live.adultiptv.net/russian.m3u8
-AdultIPTV.net Russian,https://live.redtraffic.net/russian.m3u8
-AdultIPTV.net Lesbian,https://live.adultiptv.net/lesbian.m3u8
-AdultIPTV.net Lesbian,https://live.redtraffic.net/lesbian.m3u8
-AdultIPTV.net Rough,https://live.adultiptv.net/rough.m3u8
-AdultIPTV.net Rough,https://live.redtraffic.net/rough.m3u8
-AdultIPTV.net Gangbang,https://live.adultiptv.net/gangbang.m3u8
-AdultIPTV.net Gangbang,https://live.redtraffic.net/gangbang.m3u8
-AdultIPTV.net Anal,https://live.adultiptv.net/anal.m3u8
-AdultIPTV.net Anal,https://live.redtraffic.net/anal.m3u8
-AdultIPTV.net Compilation,https://live.adultiptv.net/compilation.m3u8
-AdultIPTV.net Compilation,https://live.redtraffic.net/compilation.m3u8
-AdultIPTV.net Brunette,https://live.adultiptv.net/brunette.m3u8
-AdultIPTV.net Brunette,https://live.redtraffic.net/brunette.m3u8
-AdultIPTV.net Blonde,https://live.adultiptv.net/blonde.m3u8
-AdultIPTV.net Blonde,https://live.redtraffic.net/blonde.m3u8
-AdultIPTV.net Gay,https://live.adultiptv.net/gay.m3u8
-AdultIPTV.net Gay,https://live.redtraffic.net/gay.m3u8
-AdultIPTV.net Asian,https://live.adultiptv.net/asian.m3u8
-AdultIPTV.net Asian,https://live.redtraffic.net/asian.m3u8
+004测试频道👉转播,#genre#
+⑥春盈天下线路1,mitv://135.148.104.228:19806/faf51cf453a84400be019b14939e49f6
+⑥春盈天下线路2,mitv://147.135.39.171:9906/65fd6048000be8b2a085bc4d061c504d
+⑥春盈转播线路1,https://yyy.jkangys.com/lives/123678.m3u8
+⑥春盈转播线路2,https://vdm6-ali.wujiekeji1.com/live/h6-2.flv
+⑥春盈转播线路3,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
+⑥香港21:30八五,rtmp://ccc.jihbcr.com/live/kkk
+
+@新熬21:31一三,https://play666.macau-lhc.live/live/mosixmark.flv
+@新熬21:31一七,https://play888.00853lhc.live/live/mosixmark.flv
+@新熬21:31三三,https://play888.00853lhc.live/live/mosixmark.flv?t=1710336821937
+
+@老熬21:32一二,https://vdm6-ali.oujinghb.com/live/2032-2.flv
+@老熬21:32采家,https://vdm6-hw.qunleniuniu.com/live/2032-2.flv
+@老熬21:32一三,https://vdm6-ali.hrypl168.com/live/a6.flv
+@老熬21:32播放,https://vdm6-ali.kavimmensucat.com/live/2032-2.flv
+
+春盈天下频道,#genre#
+欧美频道1,http://cdn.adultiptv.net/bigass.m3u8 
+欧美频道2,http://cdn.adultiptv.net/blowjob.m3u8 
+欧美频道3,http://cdn.adultiptv.net/latina.m3u8 
+欧美频道4,http://cdn.adultiptv.net/fetish.m3u8 
+欧美频道5,http://cdn.adultiptv.net/gay.m3u8 
+欧美频道6,http://cdn.adultiptv.net/interracial.m3u8 
+欧美频道7,http://cdn.adultiptv.net/threesome.m3u8 
+欧美频道8,http://cdn.adultiptv.net/pornstar.m3u8 
+欧美频道9,http://cdn.adultiptv.net/milf.m3u8 
+欧美频道10,http://cdn.adultiptv.net/teen.m3u8 
+欧美频道11,http://cdn.adultiptv.net/anal.m3u8
+欧美频道12,http://cdn.adultiptv.net/asian.m3u8
+欧美频道13,http://cdn.adultiptv.net/bigass.m3u8
+欧美频道14,http://cdn.adultiptv.net/bigtits.m3u8
+欧美频道15,http://cdn.adultiptv.net/blonde.m3u8
+欧美频道16,http://cdn.adultiptv.net/blowjob.m3u8 
+欧美频道17,http://cdn.adultiptv.net/brunette.m3u8
+欧美频道18,http://cdn.adultiptv.net/compilation.m3u8
+欧美频道19,http://cdn.adultiptv.net/cuckold.m3u8
+欧美频道20,http://cdn.adultiptv.net/fetish.m3u8
+欧美频道21,http://cdn.adultiptv.net/gangbang.m3u8
+欧美频道22,http://cdn.adultiptv.net/gay.m3u8
+欧美频道23,http://cdn.adultiptv.net/hardcore.m3u8
+欧美频道24,http://cdn.adultiptv.net/interracial.m3u8
+欧美频道25,http://cdn.adultiptv.net/latina.m3u8
+欧美频道26,http://cdn.adultiptv.net/lesbian.m3u8
+欧美频道27,http://cdn.adultiptv.net/livecams.m3u8
+欧美频道28,http://cdn.adultiptv.net/milf.m3u8
+欧美频道29,http://cdn.adultiptv.net/pornstar.m3u8
+欧美频道30,http://cdn.adultiptv.net/pov.m3u8
+欧美频道31,http://cdn.adultiptv.net/rough.m3u8
+欧美频道32,http://cdn.adultiptv.net/russian.m3u8
+欧美频道33,http://cdn.adultiptv.net/teen.m3u8
+欧美频道34,http://cdn.adultiptv.net/brunette.m3u8
+欧美频道35,http://cdn.adultiptv.net/bigtits.m3u8 
+欧美频道36,http://cdn.adultiptv.net/rough.m3u8 
+欧美频道37,http://cdn.adultiptv.net/brunette.m3u8 
+果凍傳媒01,https://video2.51daao.com/btt1/2021/03/20210315/nqgw0eJK/index.m3u8
+果凍傳媒02,https://video2.51daao.com/btt1/2021/03/20210309/rwTpu16k/index.m3u8
+果凍傳媒03,https://video2.51daao.com/btt1/2021/03/20210309/WQ1u7YIC/index.m3u8
+果凍傳媒04,https://video2.51daao.com/btt1/2021/03/20210305/DkRXRNsh/index.m3u8
+果凍傳媒05,https://video2.51daao.com/btt1/2021/03/20210305/SuAEPEkH/index.m3u8
+果凍傳媒06,https://video2.51daao.com/btt1/2021/02/20210227/DzukV364/index.m3u8
+果凍傳媒07,https://video2.51daao.com/btt1/2021/02/20210222/hqS0Umq4/index.m3u8
+果凍傳媒08,https://video2.51daao.com/btt1/2021/02/20210212/gH5O6gOq/index.m3u8
+果凍傳媒09,https://video2.51daao.com/btt1/2021/02/20210212/rNSmBLwV/index.m3u8
+果凍傳媒10,https://video2.51daao.com/btt1/2021/02/20210207/4sqrcOu9/index.m3u8
+果凍傳媒11,https://video2.51daao.com/btt1/2021/02/20210207/lX1stcnL/index.m3u8
+果凍傳媒12,https://video2.51daao.com/btt1/2021/02/20210207/hwYZiYZS/index.m3u8
+果凍傳媒13,https://video2.51daao.com/btt1/2021/02/20210207/wNtvObEg/index.m3u8
+果凍傳媒14,https://video2.51daao.com/btt1/2021/01/20210130/ujDdta8s/index.m3u8
+果凍傳媒15,https://video2.51daao.com/btt1/2021/01/20210129/02gDjV83/index.m3u8
+果凍傳媒16,https://video2.51daao.com/btt1/2021/01/20210128/GpjqOwp7/index.m3u8
+果凍傳媒17,https://video2.51daao.com/btt1/2021/01/20210128/yvyxolSA/index.m3u8
+果凍傳媒18,https://video2.51daao.com/btt1/2021/01/20210128/uAjfPHbd/index.m3u8
+果凍傳媒19,https://video2.51daao.com/btt1/2021/01/20210127/e4nE3H52/index.m3u8
+果凍傳媒20,https://video2.51daao.com/btt1/2021/01/20210127/hP1ODvoI/index.m3u8
+果凍傳媒21,https://video2.51daao.com/btt1/2021/01/20210120/vgWAYAZo/index.m3u8
+果凍傳媒22,https://video2.51daao.com/btt1/2021/01/20210120/2dWWoQtk/index.m3u8
+果凍傳媒23,https://video2.51daao.com/btt1/2021/01/20210120/rM4SLnCz/index.m3u8
+果凍傳媒24,https://video2.51daao.com/btt1/2021/01/20210120/Mi91NxkJ/index.m3u8
+國產源擼閣①,https://lbbf9.com/20191102/8tOZ9w12/index.m3u8
+國產源擼閣②,https://lbbf9.com/20191030/hwjpxFVH/index.m3u8
+國產源擼閣③,https://lbbf9.com/20191030/8Zgys1TO/index.m3u8
+國產源擼閣④,https://lajiao-bo.com/20190501/HtOWsWii/index.m3u8
+國產源擼閣⑤,https://lbbf9.com/20191031/MS9Rth4m/index.m3u8
+國產源擼閣⑥,https://lbbf9.com/20191029/Nh4ivuGD/index.m3u8
+國產源擼閣⑦,https://lbbf9.com/20191027/Ng1QIETF/index.m3u8
+國產源擼閣⑧,https://lbbf9.com/20191112/mHGSHyLg/index.m3u8
+國產源擼閣⑩,https://lbbf9.com/20191112/hritZ6s1/index.m3u8
+童心未泯國產源①,https://lbbf9.com/20191113/Z5tt1lLV/index.m3u8
+童心未泯國產源②,https://lbbf9.com/20191113/te2K6ssy/index.m3u8
+童心未泯國產源⑤,https://lbbf9.com/20191113/blhH8Gfa/index.m3u8
+童心未泯國產源⑥,https://lbbf9.com/20191113/70oWnMVT/index.m3u8
+童心未泯國產源⑦,https://lbbf9.com/20191113/HQWapd2G/index.m3u8
+童心未泯國產源⑧,https://lbbf9.com/20191113/1Zdq30pq/index.m3u8
+童心未泯國產源⑨,https://lbbf9.com/20191030/uRLVDUbl/index.m3u8
+童心未泯國產源⑩,https://lbbf9.com/20191030/NViQtRx2/index.m3u8
+赢乱4P三儿媳,https://t10t13t16.cdn2020.com/video/m3u8/2021/12/05/373d172b/index.m3u8
+松視2频道,https://z100.cdn2020.com/video/m3u8/2020/07/23/7029e94d/index.m3u8
+北条麻妃美,https://vip3.lbbf9.com/20220109/mTNDPovo/1000kb/hls/index.m3u8
+玉求不满大儿媳,https://t10t13t16.cdn2020.com/video/m3u8/2021/11/21/d43f19e7/index.m3u8
+公公双飞二儿媳,https://t10t13t16.cdn2020.com/video/m3u8/2021/11/30/4dfb9409/index.m3u8
 
 
-godhand欧美, #genre#
-Playboy (+18) | HD,https://edge3.prepro.cvattv.com.ar/live/vod/Playboy/SA_Live_WebVTT_FTA/Playboy.m3u8
-VENUS - USA (+18) | HD,https://edge4-sl.cvattv.com.ar/live/c6eds/Venus/SA_SAGEMCOM/Venus.m3u8
-A3BIKINI - USA (+18) | HD,https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
-TV Adultos POV (+18) | HD,http://cdn.adultiptv.net/pov.m3u8?PlaylistM3UCL
-TV Adultos Teens (+18) | HD,http://cdn.adultiptv.net/teen.m3u8?PlaylistM3UCL
-TV Adultos GangBang (+18) | HD,http://cdn.adultiptv.net/gangbang.m3u8?PlaylistM3UCL
-TV Adultos Brunette (+18) | HD,http://cdn.adultiptv.net/brunette.m3u8?PlaylistM3UCL
-TV Adultos Blonde (+18) | HD,http://cdn.adultiptv.net/blonde.m3u8?PlaylistM3UCL
-TV Adultos Live Cams (+18) | HD,http://cdn.adultiptv.net/livecams.m3u8?PlaylistM3UCL
-TV Adultos Latina (+18) | HD,http://cdn.adultiptv.net/latina.m3u8?PlaylistM3UCL
-TV Adultos MILF (+18) | HD,http://cdn.adultiptv.net/milf.m3u8?PlaylistM3UCL
-TV Adultos Pornstars (+18) | HD,http://cdn.adultiptv.net/pornstar.m3u8?PlaylistM3UCL
 
 
-xstream欧美, #genre#
 
+
+
+005yuechan,#genre# 
+Desire,http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
+Brazzers,http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
+Dorcel,http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+Eroxxx,http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
+Extasy,http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
+Erox HD,http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+Penthouse HD,http://31.131.136.4:8000/play/a003
+Hustler HD,http://31.131.136.4:8000/play/a00g
+Redlight HD,http://31.131.136.4:8000/play/a004
+Playboy HD,http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+
+
+
+006plejmm,#genre# 
+
+VIDEO GIRL +18 1,https://ovh11.zorovids.click/shp3/601-800/601.mp4
+VIDEO GIRL +18 2,https://ovh11.zorovids.click/shp3/601-800/602.mp4
+VIDEO GIRL +18 3,https://ovh11.zorovids.click/shp3/601-800/603.mp4
+VIDEO GIRL +18 4,https://ovh11.zorovids.click/shp3/601-800/604.mp4
+VIDEO GIRL +18 5,https://ovh11.zorovids.click/shp3/601-800/605.mp4
+VIDEO GIRL +18 6,https://ovh11.zorovids.click/shp3/601-800/606.mp4
+VIDEO GIRL +18 7,https://ovh11.zorovids.click/shp3/601-800/607.mp4
+VIDEO GIRL +18 8,https://ovh11.zorovids.click/shp3/601-800/608.mp4
+VIDEO GIRL +18 9,https://ovh11.zorovids.click/shp3/601-800/609.mp4
+VIDEO GIRL +18 10,https://ovh11.zorovids.click/shp3/601-800/610.mp4
+VIDEO GIRL +18 11,https://ovh11.zorovids.click/shp3/601-800/611.mp4
+VIDEO GIRL +18 12,https://ovh11.zorovids.click/shp3/601-800/612.mp4
+VIDEO GIRL +18 13,https://ovh11.zorovids.click/shp3/601-800/613.mp4
+VIDEO GIRL +18 14,https://ovh11.zorovids.click/shp3/601-800/614.mp4
+VIDEO GIRL +18 15,https://ovh11.zorovids.click/shp3/601-800/615.mp4
+VIDEO GIRL +18 16,https://ovh11.zorovids.click/shp3/601-800/616.mp4
+VIDEO GIRL +18 17,https://ovh11.zorovids.click/shp3/601-800/617.mp4
+VIDEO GIRL +18 18,https://ovh11.zorovids.click/shp3/601-800/618.mp4
+VIDEO GIRL +18 19,https://ovh11.zorovids.click/shp3/601-800/619.mp4
+VIDEO GIRL +18 20,https://ovh11.zorovids.click/shp3/601-800/620.mp4
+VIDEO GIRL +18 21,https://ovh11.zorovids.click/shp3/601-800/621.mp4
+VIDEO GIRL +18 22,https://ovh11.zorovids.click/shp3/601-800/622.mp4
+VIDEO GIRL +18 23,https://ovh11.zorovids.click/shp3/601-800/623.mp4
+VIDEO GIRL +18 24,https://ovh11.zorovids.click/shp3/601-800/624.mp4
+VIDEO GIRL +18 25,https://ovh11.zorovids.click/shp3/601-800/625.mp4
+VIDEO GIRL +18 26,https://ovh11.zorovids.click/shp3/601-800/626.mp4
+VIDEO GIRL +18 27,https://ovh11.zorovids.click/shp3/601-800/627.mp4
+VIDEO GIRL +18 28,https://ovh11.zorovids.click/shp3/601-800/628.mp4
+VIDEO GIRL +18 29,https://ovh11.zorovids.click/shp3/601-800/629.mp4
+VIDEO GIRL +18 30,https://ovh11.zorovids.click/shp3/601-800/630.mp4
+Канал пожилых!,http://media.velcom.it:1935/sl48/sl48/playlist.m3u8
+
+
+007cannibalhect,#genre# 
+
+O-la-la,http://31.148.48.15:80/O-la-la/index.m3u8?token=test
+Erox,http://94.229.250.73:8008/play/a002
+Playboy,http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+Visit-X,http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+Шелк,http://live-1.otcnet.ru/shelkhdmts/index.m3u8
+Penthouse Gold HD,http://51.159.102.100/PenthouseGold/index.m3u8
+Русская ночь,http://94.154.83.88:10000/russiannight
+Кино 18+,https://autopilot.catcast.tv/content/40381/index.m3u8
+Passion XXX,http://62.176.77.22:9781/play/a00n
+Vivid Red,http://62.176.77.22:9781/play/a00m
+Evil Angel,http://62.176.77.22:9781/play/a00l
+Hustler HD,https://cdn-global.lolokoko.tv/HUSTLER.stream/chunks.m3u8
+Private TV,http://149.62.183.194:9293/play/a07t
+Babestation 24,http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
+Brazzers TV Europe,https://cdn-global.lolokoko.tv/BRAZZERS.stream/chunks.m3u8
+Redlight HD,https://cdn-global.lolokoko.tv/REDLIGHT.stream/chunks.m3u8
+Шалун,http://31.134.132.245:8080/shalun_hd/index.m3u8
+Babes TV,http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/6172/index.m3u8
+Barely Legal,http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/871/index.m3u8
+Red Lips,http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/6271/index.m3u8
+Blue Hustler,http://31.134.132.245:8080/hustler_hd/index.m3u8ips
+Dorcel TV,http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/245/index.m3u8
+Extasy 4K,http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/5014/index.m3u8
+
+
+
+008xstream,#genre# 
 Wife surprises her friend and husband,https://vid-s1-c50-de-cdn.eporner.com/v8/DWzgj47FcxCjXboHyVJZQg/1717190666_89.39.107.200_1256/10129882-720p.mp4
 Busty neformalka love,https://fr-1.thorcdn.com/ok/905343682927/6871743801803/480/video.mp4?md5=86371ef07e7d2d445d7742dc6db5336d
 threesome with their new neighbor,https://txxx.com/get_file/22/64d3509643d7dfd26d86f53195a39f81df59f8caec/16639000/16639191/16639191_hq.mp4/?d=1970&br=206&ti=1717171390
@@ -382,5 +440,686 @@ Rory Knox - Double Penetration,https://www.porn00.org/get_file/3/e7c8e9a88c8accc
 Couple For A Massage,https://cdn77-vid.xvideos-cdn.com/37JNqqQdOadjm5B8zhpcvQ==,1717235515/videos/hls/78/da/79/78da796928b8dc8fa184e62fae2b305a/hls_low.m3u8
 
 
+099日本,#genre# 
+苍井空_无码,https://video32.bpzy1.com/video/20220601/1944fea4bf41e7cc2ab45144611c739f/index.m3u8
+水端麻美_美丽的邻居夫人,https://video.zmwbf.com/20230601/YzEyMGFiOT/215434/720/hls/encrypt/index.m3u8
+水端麻美_妻子怀孕岳母被中出,https://play4.laoyacdn.com/20231202/8f2oey4K/index.m3u8
+东条夏,https://video.zmwbf.com/20230325/NjJhZWFmNG/162721/1280/hls/encrypt/index.m3u8
+东条夏-和妹妹欲望释出,https://lsbbf2.com/20240725/jcFJIOl3/index.m3u8
+我被姐姐的同学改造,https://video.zmwbf.com/20221209/M2Q1N2NiOG/202002/1280/hls/encrypt/index.m3u8
+时隔十年姐弟洗澡,https://video.zmwbf.com/20231106/ZWRjZjNiZT/093407/720/hls/encrypt/index.m3u8
+
+
+
+
+
+suhertest1,#genre# 
+
+
+RTM 2 http://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b764000.m3u8,https://i.imgur.com/Xdg99ZX.png" group-title="ASIA",TV3 http://iptv.rent:8080/4tvd2a9bb/ypwa70xqkd/7756
+Astro Ria http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/1705,https://i.imgur.com/ZkOyCcz.png" group-title="ASIA", Astro Awani https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8 #EXTINF:0,MY: ASTRO RIA http://king-box.club:80/live/lethesptl/jQApS1LpGU/15891.ts #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/dramasangat.png" group-title="MALAYSIA",Drama Sangat https://stream-04.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0qDdnZjsCeUi8iWNTJlTj_o)/dm/3/x6zvnex/s/live-3.m3u8 #EXTINF:-1 tvg-logo="https://i.imgur.com/CKbvIIp.png" group-title="ASIA", Astro Ria http://mu01.v5iptv.com:8880/YKNM147/aLM5tPAKTI/1705 #EXTM3U #EXTINF:-1,ASTRO MALAYSIA Suria https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ikorRe8.png" group-title="XXX",A3BIKINI TV https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KmokZz8.jpg" group-title="XXX",AST TV 1 http://www.ast.tv/stream/1/master.m3u8 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KmokZz8.jpg" group-title="XXX",AST TV 1 https://www.ast.tv/stream/1/high.m3u8 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KmokZz8.jpg" group-title="XXX",AST TV 1 https://www.ast.tv/stream/1/ultra.m3u8 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KmokZz8.jpg" group-title="XXX",AST TV 2 http://www.ast.tv/stream/2/master.m3u8 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KmokZz8.jpg" group-title="XXX",AST TV 2 https://www.ast.tv/stream/2/high.m3u8 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KmokZz8.jpg" group-title="XXX",AST TV 2 https://www.ast.tv/stream/2/normal.m3u8 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KmokZz8.jpg" group-title="XXX",AST TV 2 https://www.ast.tv/stream/2/ultra.m3u8 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AHHE8Rt.png" group-title="XXX",Babestation24 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:9528-mbr/chunklist.m3u8 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lD7NEtI.png" group-title="XXX",Frenchlover TV http://91.204.234.3:8000/play/a001/index.m3u8 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KJm7i78.png" group-title="XXX",Jasmin TV http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KJm7i78.png" group-title="XXX",Jasmin TV http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1190948669.m3u8 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KJm7i78.png" group-title="XXX",Jasmin TV http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1639491303.m3u8 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KJm7i78.png" group-title="XXX",Jasmin TV http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1770948941.m3u8 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KJm7i78.png" group-title="XXX",Jasmin TV http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w815696992.m3u8 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KJm7i78.png" group-title="XXX",Jasmin TV http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w934179313.m3u8 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KJm7i78.png" group-title="XXX",Jasmin TV http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KJm7i78.png" group-title="XXX",Jasmin TV http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist_w513145911.m3u8 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KJm7i78.png" group-title="XXX",Jasmin TV http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KJm7i78.png" group-title="XXX",Jasmin TV http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KJm7i78.png" group-title="XXX",Jasmin TV http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="XXX",Miami TV https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="XXX",Miami TV Jenny Live https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="XXX",Miami TV Latino https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/10VkLhE.jpg" group-title="XXX",Playboy TV http://87.245.211.201/live/eds/Playboy/HLS_encr/Playboy.m3u8 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Q8LP7EX.png" group-title="XXX",Private TV HD http://188.35.9.5:10005/stolen/153a/imposter.rar #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/MBGOQkC.png" group-title="XXX",Priv茅 TV http://08139e2f.ottv.info/iptv/S9824PT3RW2E72/877/index.m3u8 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/BMJDW7r.png" group-title="XXX",RedTraffic Big Ass http://live.redtraffic.xyz/bigass.m3u8 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/iNmHyo2.png" group-title="XXX",RedTraffic Big Dick http://live.redtraffic.xyz/bigdick.m3u8 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/L0VcV7w.png" group-title="XXX",RedTraffic Big Tits http://live.redtraffic.xyz/bigtits.m3u8 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xfIelNY.png" group-title="XXX",RedTraffic Blowjob http://live.redtraffic.xyz/blowjob.m3u8 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/rzZYfkN.png" group-title="XXX",RedTraffic Cuckold http://live.redtraffic.xyz/cuckold.m3u8 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/bp1qW74.png" group-title="XXX",RedTraffic Fetish http://live.redtraffic.xyz/fetish.m3u8 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6LqaFuD.png" group-title="XXX",RedTraffic Hardcore http://live.redtraffic.xyz/hardcore.m3u8 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/t3LXxuv.png" group-title="XXX",RedTraffic Interracial http://live.redtraffic.xyz/interracial.m3u8 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/uosNpWk.png" group-title="XXX",RedTraffic Latina http://live.redtraffic.xyz/latina.m3u8 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6dgyIz0.png" group-title="XXX",RedTraffic Lesbian http://live.redtraffic.xyz/lesbian.m3u8 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/acW4Fe9.png" group-title="XXX",RedTraffic MILF http://live.redtraffic.xyz/milf.m3u8 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/S2kSwfv.png" group-title="XXX",RedTraffic Pornstar http://live.redtraffic.xyz/pornstar.m3u8 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EvqysKS.png" group-title="XXX",RedTraffic POV http://live.redtraffic.xyz/pov.m3u8 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5WSwI1A.png" group-title="XXX",RedTraffic Russian http://live.redtraffic.xyz/russian.m3u8 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/3nOaNzu.png" group-title="XXX",RedTraffic Teen http://live.redtraffic.xyz/teen.m3u8 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/k85bqov.png" group-title="XXX",RedTraffic Threesome http://live.redtraffic.xyz/threesome.m3u8 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/JgcUO21.jpg" group-title="XXX",Super One HD http://188.35.9.5:10007/stolen/246r/parasite.install #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RJ9wbNF.jpg" group-title="XXX",Visit-X TV http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EWkFM9u.jpg" group-title="XXX",Vivid TV Europe http://188.35.9.26:2031/udp/031a #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/BLFrhLJ.png" group-title="XXX",Zest TV #EXTM3U #EXTINF:-1 tvg-logo=" https://i.imgur.com/LOpH12l.png" group-title=" MANDRANET-TV LOKAL",ANTV/nania ok jng lupa ijin http://id2.indostreamingtv.com/live/antv/index.m3u8 #EXTINF:-1 tvg-logo=" https://i.imgur.com/LOpH12l.png"group-title=" MANDRANET-TV LOKAL ",INDOSIAR http://45.126.83.51/qwr9ew/s/s04/01.m3u8 #EXTINF:-1 tvg-logo=" https://i.imgur.com/LOpH12l.png" group-title=" MANDRANET-TV LOKAL ",TRANS TV HD http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_sleng.m3u8 #EXTINF:-1 tvg-logo=" https://i.imgur.com/LOpH12l.png" group-title=" MANDRANET-TV LOKAL ",SCTV http://210.210.155.35/qwr9ew/s/s103/01.m3u8 #EXTINF:-1 tvg-logo=" https://i.imgur.com/LOpH12l.png" group-title=" MANDRANET-TV LOKAL ",SCTV http://id1.indostreamingtv.com/live/sctv/index.m3u8 #EXTINF:-1 tvg-logo=" https://i.imgur.com/LOpH12l.png" group-title=" MANDRANET-TV LOKAL ",TV ONE http://id1.indostreamingtv.com/live/tv444/index.m3u8 #EXTINF:-1 tvg-logo=" https://i.imgur.com/LOpH12l.png" group-title=" MANDRANET-TV LOKAL ",TRANS7 HD http://video.detik.com/trans7/smil:trans7.smil/chunklist_w140890010_b384000_sleng.m3u8 #EXTINF:0 tvg-logo=" https://i.imgur.com/LOpH12l.png" group-title=" MANDRANET-TV LOKAL ",METRO TV http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/master.m3u8 #EXTINF:-1 tvg-logo=" https://i.imgur.com/LOpH12l.png" group-title=" MANDRANET-TV LOKAL ",METRO TV http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8 #EXTINF:-1 tvg-logo=" https://i.imgur.com/LOpH12l.png" group-title=" MANDRANET-TV LOKAL ",NET TV http://210.210.155.35/qwr9ew/s/s08/01.m3u8 #EXTINF:-1 tvg-logo=" https://i.imgur.com/LOpH12l.png" group-title=" MANDRANET-TV LOKAL ",NET TV http://210.210.155.35/qwr9ew/s/s08/02.m3u8 #EXTINF:-1 tvg-logo=" https://i.imgur.com/LOpH12l.png" group-title=" MANDRANET-TV LOKAL ",RTV http://210.210.155.35/session/08fb7806-059c-11e9-9d77-c81f66f89318/qwr9ew/s/s12/01.m3u8 #EXTINF:-1 tvg-logo=" https://i.imgur.com/LOpH12l.png" group-title=" MANDRANET-TV LOKAL ",BERITA SATU http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8 #EXTINF:-1 tvg-logo=" https://i.imgur.com/LOpH12l.png" group-title=" MANDRANET-TV LOKAL ",JTV http://122.248.43.138:1935/ch2/myStream/playlist.m3u8 #EXTINF:-1 tvg-logo=" https://i.imgur.com/LOpH12l.png" group-title=" MANDRANET-TV LOKAL ",GLOBALTV http://id6.indostreamingtv.com/live/tv1/index.m3u8 #EXTINF:-1 tvg-logo=" https://i.imgur.com/LOpH12l.png" group-title=" MANDRANET-TV LOKAL ",MNC TV http://id6.indostreamingtv.com/live/mnctv/index.m3u8 #EXTINF:-1 tvg-logo=" https://i.imgur.com/LOpH12l.png" group-title=" MANDRANET-TV LOKAL ",RCTI http://id6.indostreamingtv.com/live/rcti/index.m3u8 #EXTINF:-1 tvg-logo=" https://i.imgur.com/LOpH12l.png" group-title=" MANDRANET-TV LOKAL ",MNC TV + http://id6.indostreamingtv.com/live/mnctv/index.m3u8 #EXTINF:-1 tvg-logo=" https://i.imgur.com/LOpH12l.png" group-title=" MANDRANET-TV LOKAL ",JGO http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8 #EXTINF:-1,ANTV http://id2.indostreamingtv.com/live/antv/index.m3u8 #EXTINF:-1,BERITA SATU NEWS http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8 #EXTINF:-1,CNBC INDONESIA http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8 #EXTINF:-1,CELESTELIAL MOVIES http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8 #EXTINF:-1,CNN INDONESIA https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2099542994_b384000_sleng.m3u8 #EXTINF:-1,DANGDUT TV http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8 #EXTINF:-1,FIRST MEDIA http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8?fluxustv.m3u8 #EXTINF:-1,GLOBAL TV https://live.rctiplus.id/rctiplus/gtv_720p.m3u8 #EXTINF:-1,INDONESIA CHANNEL http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8 #EXTINF:-1,RTV http://210.210.155.35/session/916c75e4-0647-11ea-b42d-c81f66f89318/qwr9ew/s/s12/02.m3u8 #EXTINF:-1,SENEMA INDONESIA HD http://210.210.155.35/session/44f6d74a-01a1-11ea-b55a-9182955aa916/x6bnqe/s/s71/S4/mnf.m3u8 #EXTINF:-1,THRILL HD http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8 #EXTINF:-1,TVRI Sports http://210.210.155.35/session/69e800f6-97c0-11e9-888f-b82a72d63267/qwr9ew/s/s107/index.m3u8 #EXTINF:-1,Indosiar http://203.153.218.28:9981/stream/channelid/261435212?ticket=B10B2C8D7C5EF65FE04AEAF62383D6B3647ED987&profile=pass #EXTINF:-1, http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8 #EXTINF:-1,I NEWS TV https://live.rctiplus.id/rctiplus/inews_720p.m3u8 #EXTINF:-1,JAKARTA GLOBE http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8 #EXTINF:-1,JGO TV http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8 #EXTINF:-1,KARAOKE TV http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8 #EXTINF:-1,MIOMY TV https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8 #EXTINF:-1,MNC TV https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8 #EXTINF:-1,NET TV http://210.210.155.35/qwr9ew/s/s08/02.m3u8 #EXTINF:-1,RCTI https://live.rctiplus.id/rctiplus/rcti_720p.m3u8 #EXTINF:-1,SCTV http://id1.indostreamingtv.com/live/sctv/index.m3u8 #EXTINF:-1,TRANS 7 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w63099618_b384000_sleng.m3u8 #EXTINF:-1,TRANS TV https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1678042997_b384000_sleng.m3u8 #EXTINF:-1,KOMPAS TV http://210.210.155.35/session/69927436-1aa3-11ea-a103-acecbc14f551/qwr9ew/s/s104/01.m3u8 #EXTINF:-1,METRO TV http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8 #EXTINF:-1,INDOSIAR http://210.210.155.35/session/4a2efd20-a94d-11e9-bbad-c81f66f89318/qwr9ew/s/s04/02.m3u8 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="TV NASIONAL",ANTV http://id2.indostreamingtv.com/live/antv/index.m3u8 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="TV NASIONAL",INDOSIAR http://210.210.155.35/session/4a2efd20-a94d-11e9-bbad-c81f66f89318/qwr9ew/s/s04/02.m3u8 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="TV NASIONAL",TRANS TV HD http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_sleng.m3u8 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="TV NASIONAL",MNC TV https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="TV NASIONAL",RCTI HD https://live.rctiplus.id/rctiplus/rcti_720p.m3u8 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="TV NASIONAL",SCTV http://id1.indostreamingtv.com/live/sctv/index.m3u8 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="TV NASIONAL",GLOBALTV HD https://live.rctiplus.id/rctiplus/gtv_720p.m3u8 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="TV NASIONAL",TV ONE HD http://zaman-now.com/?zxtvxz?/TVONE #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="TV NASIONAL",TRANS7 HD http://video.detik.com/trans7/smil:trans7.smil/chunklist_w140890010_b384000_sleng.m3u8 #EXTINF:0 tvg-logo="http://images2.useetv.com/logo_metrotv_big1.png" group-title="TV NASIONAL",METRO TV http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/master.m3u8 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_metrotv_big1.png" group-title="TV NASIONAL",METRO TV http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="TV NASIONAL",INEWS HD https://live.rctiplus.id/rctiplus/inews_720p.m3u8 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="TV NASIONAL",RTV http://210.210.155.35/session/08fb7806-059c-11e9-9d77-c81f66f89318/qwr9ew/s/s12/01.m3u8 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="TV NASIONAL", KOMPAS TV http://210.210.155.35/session/69927436-1aa3-11ea-a103-acecbc14f551/qwr9ew/s/s104/01.m3u8 #EXTINF:-1 tvg-logo="http://wallperio.com/data/out/263/naruto-wallpaper-hd_610191579.jpg" group-title="TV NASIONAL",BERITA SATU http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="TV NASIONAL", CNN INDONESIA HD https://dl.dropbox.com/s/1tno4ahlb36dxd5/CNN%20Indo.m3u8?dl=0
+Usee Prime https://livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569566690~exp=9007200824307681~acl=/8eb1108c494240ef94c5c8ae7e572c29/*/profile_2/chunklist.m3u8*~hmac=cc4223b8bfbb07d175ad755bd540d8f9f273de2b47c7ddb69470a49c4be61140,http://wallperio.com/data/out/263/naruto-wallpaper-hd_610191579.jpg" group-title="INDO LOKAL",CNN INDONESIA https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+Metro TV http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8,http://wallperio.com/data/out/263/naruto-wallpaper-hd_610191579.jpg" group-title="INDO LOKAL",RCTI https://live.rctiplus.id/rctiplus/rcti_360p.m3u8
+RCTI ++ http://id6.indostreamingtv.com/live/rcti/index.m3u8,http://wallperio.com/data/out/263/naruto-wallpaper-hd_610191579.jpg" group-title="INDO LOKAL",SCTV http://210.210.155.35/qwr9ew/s/s103/01.m3u8 #EXTINF:-1 tvg-logo="http://wallperio.com/data/out/263/naruto-wallpaper-hd_610191579.jpg" group-title="INDO LOKAL",SCTV ++ http://id1.indostreamingtv.com/live/sctv/index.m3u8
+ANTV http://210.210.155.35/qwr9ew/s/s102/01.m3u8,http://wallperio.com/data/out/263/naruto-wallpaper-hd_610191579.jpg" group-title="INDO LOKAL",ANTV ++ http://id2.indostreamingtv.com/live/antv/index.m3u8
+Global TV ++ http://id6.indostreamingtv.com/live/tv1/index.m3u8,http://wallperio.com/data/out/263/naru
+BERITA SATU WORLD http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8,http://wallperio.com/data/out/263/naruto-wallpaper-hd_610191579.jpg" group-title="INDO LOKAL",TRANS TV ++ http://id2.indostreamingtv.com/liv
+TRANS 7 ++ http://id2.indostreamingtv.com/live/trans7/index.m3u8,http://wallperio.com/data/out/263/naruto-wallpaper-hd_610191579.jpg" group-title="INDO LOKAL",BERITA SATU http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+CNBC INDONESIA https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8,https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",MALEO http://stream1.ninmedia.tv/maleo/udp.stream_360p/playlist.m3u8
+POP MUSIK http://stream1.ninmedia.tv/popmusik/udp.stream_360p/playlist.m3u8,http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+CNN INDONESIA https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8,https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",TRIBRATA TV http://stream1.ninmedia.tv/tribratatv/udp.stream_360p/playlist.m3u8
+BMW TV http://stream1.ninmedia.tv/bmwtv/udp.stream_360p/playlist.m3u8,https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",KITANESIA http://stream1.ninmedia.tv/kitanesia/udp.stream_360p/playlist.m3u8
+INSPIRA TV http://stream1.ninmedia.tv/inspiratv/udp.stream_360p/playlist.m3u8,https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",AREK TV SURABAYA http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
+RUMAH TV http://stream2.ninmedia.tv/rumahtv/rtmp.stream_360p/playlist.m3u8,https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",TV DESA http://stream1.ninmedia.tv/tvdesa/udp.stream_360p/playlist.m3u8
+GEMILANG TV http://stream1.ninmedia.tv/gemilangtv/rtmp.stream_360p/playlist.m3u8,https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",RCTV http://stream1.ninmedia.tv/rctv/rtmp.stream_360p/playlist.m3u8
+JAMBI TV http://stream1.ninmedia.tv/jambitv/rtmp.stream_360p/playlist.m3u8,https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",RADAR TV LAMPUNG http://stream1.ninmedia.tv/radartvlampung/udp.stream_360p/playlist.m3u8
+NABAWI TV http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8,https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",BE TV http://stream1.ninmedia.tv/betv/rtmp.stream_360p/playlist.m3u8
+RB TV http://stream1.ninmedia.tv/rbtv/rtmp.stream_360p/p,https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",DMI TV http://stream1.ninmedia.tv/dmitv/udp.stream_360p/playlist.m3u8
+NU CHANNEL http://stream1.ninmedia.tv/nuchannel/udp.stream_360p/playlist.m3u8,https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",GPR TV http://stream1.ninmedia.tv/gprtv/udp.stream_360p/playlist.m3u8
+MI TV http://stream2.ninmedia.tv/mitv/rtmp.stream_360p/playlist.m3u8,https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="TV NASIONAL",TRANS TV HD http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_sleng.m3u8
+INEWS HD https://live.rctiplus.id/rctiplus/inews_720p.m3u8,https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="TV NASIONAL",RTV http://45.126.83.51/qwr9ew/s/s12/01.m3u8
+BERITA SATU http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8,https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="TV NASIONAL", CNN INDONESIA HD https://dl.dropbox.com/s/1tno4ahlb36dxd5/CNN%20Indo.m3u8?dl=0
+ADiTV http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8,https://i.imgur.com/QrmRJDw.png" group-title="INDONESIA",Arek TV http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
+BeritaSatu World (Opt-1) http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8,https://i.imgur.com/h7RKQpQ.png" group-title="INDONESIA",CNBC Indonesia https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png" group-title="INDONESIA",CNN Indonesia http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+Jakarta Globe News http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8,https://i.imgur.com/5kucCbs.png" group-title="INDONESIA",Jek TV http://122.248.43.138:1935/ch14/myStream/chunklist.m3u8 #EXTINF:-1 tvg-logo="https://i.imgur.com/BzbBDbn.png" group-title="INDONESIA",Karaoke Channel http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b22880
+Kix http://210.210.155.35/uq2663/h/h07/01.m3u8?fluxustv.m3u8,https://i.imgur.com/kq7NbTH.png" group-title="INDONESIA",Radar Cirebon TV http://stream1.ninmedia.tv/rctv/rtmp.stream_360p/playlist.m3u8 #EXTINF:-1 tvg-logo="https://i.imgur.com/ebKIlkd.png" group-title="INDONESIA",Radar TV Tasikmalaya http://radartasikmalaya.onlivestreaming.net/radartasikmalaya/livestream/playlist.m3u8
+RRI Net http://36.89.47.217:11935/rrinet/live/index.m3u8,https://i.imgur.com/h5GjUJm.png" group-title="INDONESIA",TVKU http://103.30.1.14:8080/hls/live.m3u8
+CNBC Indonesia https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8,https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="LOKAL",RCTV http://stream1.ninmedia.tv/rctv/rtmp.stream_360p/playlist.m3u8
+BARAYA TV http://stream1.ninmedia.tv/barayatv/rtmp.stream_360p/playlist.m3u8,https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="NIN MEDIA",RRI NET http://36.89.47.217:11935/rrinet/live/index.m3u8
+GPR TV http://stream1.ninmedia.tv/gprtv/udp.stream_360p/playlist.m3u8,https://i.imgur.com/QrmRJDw.png" group-title="NIN MEDIA",Arek TV http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="RELIGI",INSAN TV http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8 #EXTINF:-1 tvg-ID="" tvg-name="AHSAN TV" tvg-logo="" group-title="RELIGI",Ahsan TV http://119.82.224.75:1935/live/ahsantv/chunk.m3u8 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="RELIGI",TAHFIDZ TV http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="RELIGI",TAWAFTV http://stream2.ninmedia.tv/tawaftv/rtmp.stream_360p/chunklist_w720255703.m3u8 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="RELIGI",AL Bahjah https://edge.siar.us/albahjahtv/live/playlist.m3u8 #EXTINF:0 tvg-id="ext" group-title="RELIGI",MAKKAH http://210.210.155.35/qwr9ew/s/s28/01.m3u8 #EXTINF:0 tvg-id="ext" group-title="RELIGI",MADINAH http://210.210.155.35/qwr9ew/s/s27/01.m3u8 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="NIN MEDIA",PAL TV http://stream1.ninmedia.tv/paltv/rtmp.stream_360p/playlist.m3u8 #EXTINF:-1 tvg-logo="https://i.imgur.com/1Yr9nMG.png" group-title="LOKAL",J'go http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8?fluxustv.m3u8
+ADI TV YOGYAKARTA http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8,https://i.imgur.com/ZuvHze2.png" group-title="NIN MEDIA",Pop Musik http://stream1.ninmedia.tv/popmusik/udp.stream_360p/playlist.m3u8 #EXTINF:-1 tvg-logo="https://i.imgur.com/A4oAMGm.png" group-title="LOKAL",The Indonesia Channel http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8?fluxustv.m3u8
+DRAGON TV http://rr2.dens.tv/s/s29/index2.m3u8 #EXTINF: -1 group-t,http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8 #EXTINF: -1 group-title="Malaysia", ASTRO CHINESE http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8 #EXTINF: -1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/smartware-cms-prod/image/tvTVSALURANBERITARTMlogo.jpg" group-title="Malaysia", RTM BES https://rtmbes.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b644000.m3u8 #EXTINF: -1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Malaysia", Astro Awani(HW+) https://dl.dropbox.com/s/kk7o4jkhh9pogfc/AstroAwani.m3u8?dl=0 #EXTINF: -1 group-title="Malaysia", ASTRO AWANI http://edge.vediostream.com/abr/tvikim/playlist.m3u8 #EXTINF: -1 group-title="Malaysia", U CHANNEL http://stream.rs.co.th/you-hi/index.m3u8 #EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/hZchia4FDgfMky3nKg8z7-qyc_yjXQAGHqhVQhyWoexewiuw3fd7vsKT4RMeDyBV-RjwQoZnC4AHEA=w176-h176-n-o-rw" group-title="Feed Plus", Top doc ID https://proxy-002.ix7.dailymotion.com/sec(F2xm4AE_MJz4XuMt-sLSYbiDa0ec5N7Gvpihfyhq99nG3rstjfZL0e91vzlji1EY-c_1wSJfDJaWgyRiwnu3Su4k10bWiOrDjDGDNVCRE58)/video/848/177/463771848_mp4_h264_aac.m3u8 #EXTINF: -1 group-title="Feed Plus", Tennis 1 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/e.m3u8 #EXTINF: -1 group-title="Feed Plus", Tennis 2 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8 #EXTINF: -1 group-title="Feed Plus", Tennis 3 http://s2.sports24.win/tennis.m3u8 #EXTINF: -1 group-title="Feed Plus", NBA LEAGUE http://plexonline.club:25461/live/thecrow1098/sinxxx/1503.ts #EXTINF: -1 group-title="Feed Plus", NBA LEAGUE 1 http://plexonline.club:25461/live/thecrow1098/sinxxx/1504.ts #EXTINF: -1 group-title="Feed Plus", NBA LEAGUE 2 http://plexonline.club:25461/live/thecrow1098/sinxxx/1505.ts #EXTINF: -1 group-title="Feed Plus", Boxing https://edge5.xmediaget.com/hls-live/xmlive/_definst_/2806283/2806283.m3u8?refId=1 #EXTINF: -1 group-title="Feed Plus", FightBox http://plexonline.club:25461/live/thecrow1098/sinxxx/30.ts #EXTINF: -1 group-title="Feed Plus", Fight-time http://plexonline.club:25461/live/thecrow1098/sinxxx/4.ts #EXTINF: -1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Kitanesia-logo-01-250px.png" group-title="Ninmedia", KITANESIA http://stream1.ninmedia.tv/kitanesia/udp.stream_360p/playlist.m3u8 #EXTINF: -1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Maleo-2-Green-250x150px.png" group-title="Ninmedia", MALEO http://stream1.ninmedia.tv/maleo/udp.stream_360p/playlist.m3u8 #EXTINF: -1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Inspira-TV-250px.png" group-title="Ninmedia", INSPIRA TV http://stream1.ninmedia.tv/inspiratv/udp.stream_360p/playlist.m3u8 #EXTINF: -1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/09/TV-BMW-Channel-Militer-250x132.png" group-title="Ninmedia", BMW TV http://stream1.ninmedia.tv/bmwtv/udp.stream_360p/playlist.m3u8 #EXTINF: -1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Tabalongid-tv-250px.jpg" group-title="Ninmedia", TABALONG TV http://stream1.ninmedia.tv/tabalongtv/udp.stream_360p/playlist.m3u8 #EXTINF: -1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Arek-TV-logo-3D-1-250px.png" group-title="Ninmedia", AREK TV SURABAYA http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8 #EXTINF: -1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/03/Ch-Rumah-TV2-250px.png" group-title="Ninmedia", RUMAH TV http://stream2.ninmedia.tv/rumahtv/rtmp.stream_360p/playlist.m3u8 #EXTINF: -1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-TV-Desa-250px.png" group-title="Ninmedia", TV DESA http://stream1.ninmedia.tv/tvdesa/udp.stream_360p/playlist.m3u8 #EXTINF: -1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/09/Gemilang-TV-250x141px.jpg" group-title="Ninmedia", GEMILANG TV http://stream1.ninmedia.tv/gemilangtv/rtmp.stream_360p/playlist.m3u8 #EXTINF: -1 tvg-logo="http
+VIP ID: Nick ID http://world-,http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/28747 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ID: ONE TV" tvg-logo="" group-title="Indonesia",VIP ID: ONE TV http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/6766 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ID: Padang TV" tvg-logo="" group-title="Indonesia",VIP ID: Padang TV http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/28722 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ID: PADANJTV" tvg-logo="" group-title="Indonesia",VIP ID: PADANJTV http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/28721 #EXTINF:-1 tvg-ID="" tvg-name="VIP ID: Premiere ID" tvg-logo="" group-title="Indonesia",VIP ID: Premiere ID http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/28746 #EXTINF:-1 tvg-ID="" tvg-name="VIP ID: Rajawali Televisi" tvg-logo="" group-title="Indonesia",VIP ID: Rajawali Televisi http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/28720 #EXTINF:-1 tvg-ID="" tvg-name="VIP ID: RBTV" tvg-logo="" group-title="Indonesia",VIP ID: RBTV http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/28719 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ID: RCTI" tvg-logo="" group-title="Indonesia",VIP ID: RCTI http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/6759 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ID: Reformed 21" tvg-logo="" group-title="Indonesia",VIP ID: Reformed 21 http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/28718 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ID: Rodja TV" tvg-logo="" group-title="Indonesia",VIP ID: Rodja TV http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/28717 #EXTINF:-1 tvg-ID="" tvg-name="VIP ID: RTV" tvg-logo="" group-title="Indonesia",VIP ID: RTV http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/18545 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ID: RTV TV" tvg-logo="" group-title="Indonesia",VIP ID: RTV TV http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/28716 #EXTINF:-1 tvg-ID="" tvg-name="VIP ID: RTV5 Makin" tvg-logo="" group-title="Indonesia",VIP ID: RTV5 Makin http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/28745 #EXTINF:-1 tvg-ID="" tvg-name="VIP ID: Sakti TV" tvg-logo="" group-title="Indonesia",VIP ID: Sakti TV http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/28715 #EXTINF:-1 tvg-ID="" tvg-name="VIP ID: Salam TV" tvg-logo="" group-title="Indonesia",VIP ID: Salam TV http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/28714 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ID: SC TV" tvg-logo="" group-title="Indonesia",VIP ID: SC TV http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/6756 #EXTINF:-1 tvg-ID="" tvg-name="VIP ID: SCM ID" tvg-logo="" group-title="Indonesia",VIP ID: SCM ID http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/28744 #EXTINF:-1 tvg-ID="" tvg-name="VIP ID: SCM Legend ID" tvg-logo="" group-title="Indonesia",VIP ID: SCM Legend ID http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/28743 #EXTINF:-1 tvg-ID="" tvg-name="VIP ID: Soccer Channel ID" tvg-logo="" group-title="Indonesia",VIP ID: Soccer Channel ID http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/28742 #EXTINF:-1 tvg-ID="" tvg-name="VIP ID: Sony ONE" tvg-logo="" group-title="Indonesia",VIP ID: Sony ONE http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/18547 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ID: TEGAR TV" tvg-logo="" group-title="Indonesia",VIP ID: TEGAR TV http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/28713 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ID: The Indonesia Channel" tvg-logo="" group-title="Indonesia",VIP ID: The Indonesia Channel http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/28712 #EXTINF:-1 tvg-ID="" tvg-name="VIP ID: Thrill" tvg-logo="" group-title="Indonesia",VIP ID: Thrill http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/18549 #EXTINF:-1 tvg-ID="" tvg-name="VIP ID: TLC ID" tvg-logo="" group-title="Indonesia",VIP ID: TLC ID http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/28741 #EXTINF:-1 tvg-ID="" tvg-name="VIP ID: Trans 7" tvg-logo="" group-title="Indonesia",VIP ID: Trans 7 http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/6752 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ID: Trans TV"
+VIP MLZ: WARNER TV HD http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/33255 #EXTINF:-1 tvg-ID="NULL" tv,http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/28635 #EXTINF:-1 tvg-ID="" tvg-name="VIP SG: CH-5" tvg-logo="" group-title="Malaysia & Singapore",VIP SG: CH-5 http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/9604 #EXTINF:-1 tvg-ID="" tvg-name="VIP SG: CH-8" tvg-logo="" group-title="Malaysia & Singapore",VIP SG: CH-8 http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/9603 #EXTINF:-1 tvg-ID="" tvg-name="VIP SG: CH-U" tvg-logo="" group-title="Malaysia & Singapore",VIP SG: CH-U http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/9602 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SG: CHANNEL NEWS ASIA" tvg-logo="[" group-title="Malaysia & Singapore",VIP SG: CHANNEL NEWS ASIA http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/9601 #EXTINF:-1 tvg-ID="" tvg-name="VIP SG: Eleven Sport HD" tvg-logo="" group-title="Malaysia & Singapore",VIP SG: Eleven Sport HD http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/5106 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SG: Fox Sports FHD" tvg-logo="[" group-title="Malaysia & Singapore",VIP SG: Fox Sports FHD http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/30038 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SG: FOX SPORTS 1 HD" tvg-logo="" group-title="Malaysia & Singapore",VIP SG: FOX SPORTS 1 HD http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/7652 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SG: FOX SPORTS 2" tvg-logo="" group-title="Malaysia & Singapore",VIP SG: FOX SPORTS 2 http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/7653 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SG: FOX SPORTS 3" tvg-logo="[" group-title="Malaysia & Singapore",VIP SG: FOX SPORTS 3 http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/7654 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SG: HBO ASIA" tvg-logo="[" group-title="Malaysia & Singapore",VIP SG: HBO ASIA http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/9596 #EXTINF:-1 tvg-ID="" tvg-name="VIP SG: MIAO MI" tvg-logo="" group-title="Malaysia & Singapore",VIP SG: MIAO MI http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/9600 #EXTINF:-1 tvg-ID="" tvg-name="VIP SG: OKTO" tvg-logo="" group-title="Malaysia & Singapore",VIP SG: OKTO http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/9599 #EXTINF:-1 tvg-ID="" tvg-name="VIP SG: SURIA" tvg-logo="" group-title="Malaysia & Singapore",VIP SG: SURIA http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/9598 #EXTINF:-1 tvg-ID="" tvg-name="VIP SG: TVN HD" tvg-logo="" group-title="Malaysia & Singapore",VIP SG: TVN HD http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/9611 #EXTINF:-1 tvg-ID="" tvg-name="VIP SG: VASANTHAM" tvg-logo="" group-title="Malaysia & Singapore",VIP SG: VASANTHAM http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/9597
+VIP PH: BEIN,http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/22535 #EXTINF:-1 tvg-ID="" tvg-name="VIP PH: BEIN SPORTS 3 HD" tvg-logo="" group-title="Filipino",VIP PH: BEIN SPORTS 3 HD http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/22534 #EXTINF:-1 tvg-ID="" tvg-name="VIP PH: BLUE ANT ENTER" tvg-logo="" group-title="Filipino",VIP PH: BLUE ANT ENTER http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/22533 #EXTINF:-1 tvg-ID="" tvg-name="VIP PH: BLUE ANT EXT" tvg-logo="[""]" group-title="Filipino",VIP PH: BLUE ANT EXT http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/22532 #EXTINF:-1 tvg-ID="" tvg-name="VIP PH: CARTOON NETWORK" tvg-logo="" group-title="Filipino",VIP PH: CARTOON NETWORK http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/22531 #EXTINF:-1 tvg-ID="" tvg-name="VIP PH: CCTN" tvg-logo="" group-title="Filipino",VIP PH: CCTN http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/26990 #EXTINF:-1 tvg-ID="" tvg-name="VIP PH: CLASSIC MOVIES" tvg-logo="" group-title="Filipino",VIP PH: CLASSIC MOVIES http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/22530 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP PH: BTV" tvg-logo="" group-title="Filipino",VIP PH: BTV http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/22529 #EXTINF:-1 tvg-ID="" tvg-name="VIP PH: CRIME INVESTIGATION" tvg-logo="" group-title="Filipino",VIP PH: CRIME INVESTIGATION http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/22528 #EXTINF:-1 tvg-ID="" tvg-name="VIP PH: DISCOVERY ASIA WORLD" tvg-logo="" group-title="Filipino",VIP PH: DISCOVERY ASIA WORLD http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/22527 #EXTINF:-1 tvg-ID="" tvg-name="VIP PH: DISNEY CH" tvg-logo="" group-title="Filipino",VIP PH: DISNEY CH http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/22526 #EXTINF:-1 tvg-ID="" tvg-name="VIP PH: DISNEY JR" tvg-logo="" group-title="Filipino",VIP PH: DISNEY JR http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/22525 #EXTINF:-1 tvg-ID="" tvg-name="VIP PH: DZRH News" tvg-logo="" group-title="Filipino",VIP PH: DZRH News http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/26989 #EXTINF:-1 tvg-ID="" tvg-name="VIP PH: ESPN Plus 5" tvg-logo="" group-title="Filipino",VIP PH: ESPN Plus 5 http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/26988 #EXTINF:-1 tvg-ID="" tvg-name="VIP PH: EUROSPORT" tvg-logo="" group-title="Filipino",VIP PH: EUROSPORT http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/22523 #EXTINF:-1 tvg-ID="" tvg-name="VIP PH: FIY" tvg-logo="" group-title="Filipino",VIP PH: FIY http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/22522 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP PH: FOOD NETWORK" tvg-logo="" group-title="Filipino",VIP PH: FOOD NETWORK http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/22521 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP PH: Fox Sports Asia 1 FHD" tvg-logo="[" group-title="Filipino",VIP PH: Fox Sports Asia 1 FHD http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/30043 #EXTINF:-1 tvg-ID="" tvg-name="VIP PH: Fox Fillipino" tvg-logo="" group-title="Filipino",VIP PH: Fox Fillipino http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/26987 #EXTINF:-1 tvg-ID="" tvg-name="VIP PH: GPC" tvg-logo="" group-title="Filipino",VIP PH: GPC http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/26986 #EXTINF:-1 tvg-ID="" tvg-name="VIP PH: HISTORY" tvg-logo="" group-title="Filipino",VIP PH: HISTORY http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/22520 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP PH: HISTORY 2" tvg-logo="" group-title="Filipino",VIP PH: HISTORY 2 http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/22519 #EXTINF:-1 tvg-ID="" tvg-name="VIP PH: HITS" tvg-logo="" group-title="Filipino",VIP PH: HITS http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/22518 #EXTINF:-1 tvg-ID="" tvg-name="VIP PH: IBC" tvg-logo="" group-title="Filipino",VIP PH: IBC http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/26985 #EXTINF:-1 tvg-ID="" tvg-name="VIP PH: INC Tv" tvg-logo="" group-title="Filipino",VIP PH: INC Tv http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/26984 #EXTINF:-1 tvg-ID="" tvg-name="VIP PH: Jack Tv" tvg-logo="" group-title="Filipino",VIP PH: Jack Tv http://world-iptv.net:8080/SvSawvtjGD/QGXfCACuHP/26983 #EXT
+RCTI+ http://id6.indostreamingtv.com/live/rcti/index.m3u8,https://devanyahya.web.id/mnclogo.png" group-title="INDONESIA",MNC https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8 #EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://devanyahya.web.id/mnclogo.png" group-title="INDONESIA",MNC+ http://id6.indostreamingtv.com/live/mnctv/index.m3u8
+ANTV http://id2.indostreamingtv.com/live/antv/index.m3u8,https://www.useetv.com/assets/images/channel/logo_sctv_big1.png?v=2.0.0.13" group-title="INDONESIA",SCTV http://id1.indostreamingtv.com/live/sctv/index.m3u8 #EXTINF:-1 group-title="INDONESIA",RTV http://210.210.155.35/session/2375c940-33a2-11ea-82b2-c81f66f89318/qwr9ew/s/s12/01.m3u8
+GTV HD https://live.rctiplus.id/rctiplus/gtv_720p.m3u8,https://www.useetv.com/assets/images/channel/logo_trans7_big1.png?v=2.0.0.13" group-title="INDONESIA",TRANS 7 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w464718372_b384000_sleng.m3u8 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_big1.png?v=2.0.0.13" group-title="INDONESIA",TRANS 7+ http://video.detik.com/trans7/smil:trans7.smil/chunklist_w1925750281_b384000_sleng.m3u8
+TRANS TV++ http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_sleng.m3u8,https://mncvision.id/userfiles/image/channel/channel_116.jpg" group-title="INDONESIA",NET TV http://210.210.155.35/session/ca68764e-1aa2-11ea-b992-973fbfc7a24b/qwr9ew/s/s08/01.m3u8 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_116.jpg" group-title="INDONESIA",NET TV HD http://45.126.83.51/qwr9ew/s/s08/index.m3u8
+INDOSIAR+ http://id1.indostreamingtv.com/live/indosiar/index.m3u8,https://i.imgur.com/nmoL4J4.png" group-title="INDONESIA",TVONE http://210.210.155.35:80/session/0b808a8c-6c0b-11e9-88f0-c81f66f89318/qwr9ew/s/s105/index.m3u8 #EXTINF:-1 tvg-logo="https://i.imgur.com/nmoL4J4.png" group-title="INDONESIA",TVONE+ https://dl.dropbox.com/s/og25nmf6u54dfx9/Tvone.m3u8?dl=0
+iNews TV+ https://live.rctiplus.id/rctiplus/inews_720p.m3u8,http://images2.useetv.com/logo_beritasatu_big1.png?v=1.0.0.0" group-title="INDONESIA",Berita Satu News http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_beritasatu_big1.png?v=1.0.0.0" group-title="INDONESIA",Berita Satu News+ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/chunklist_b1128000.m3u8
+Me,http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w591695661_b1492000_sleng.m3u8 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_metrotv_big1.png?v=1.0.0.0" group-title="INDONESIA",METRO TV+ http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
+Kompas TV+ http://210.210.155.35/qwr9ew/s/s09/index1.m3u8,http://images2.useetv.com/logo_cnnindonesia_big1.png?v=1.0.0.0" group-title="INDONESIA",CNN Indonesia https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2099542994_b384000_sleng.m3u8 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_cnnindonesia_big1.png?v=1.0.0.0" group-title="INDONESIA",CNN Indonesia+ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+JAKARTA GLOBE NEWS http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8,http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(02)/index.m3u8
+SALINGSAPA http://stream1.ninmedia.tv/salingsapa/rtmp.stream_,http://stream1.ninmedia.tv/nuchannel/udp.stream_360p/playlist.m3u8 #EXTINF:-1 group-title="RELIGI",GPR TV http://stream1.ninmedia.tv/gprtv/udp.stream_360p/playlist.m3u8 #EXTINF:-1 group-title="RELIGI",TRIBRATA TV http://stream1.ninmedia.tv/tribratatv/udp.stream_360p/playlist.m3u8
+Cinemax http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F246B23011407540BE9B0E50&profile=pass,http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass
+Asian Food Channel http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B739BCAB7412D568D65147A93&profile=pass,http://203.153.218.28:9981/stream/channelid/882386103?ticket=DF543FFEC6C497F485D61A1907E83292A2DB1741&profile=pass
+BBC World News http://203.153.218.28:9981/stream/channelid/861591723?ticket=F0599E847F90B5FE81ADFE5AD5296885A461DA19&profile=pass,http://203.153.218.28:9981/stream/channelid/78064174?ticket=4490D953FCAC1483DE94BE2C4D1F241E5319BCD8&profile=pass
+Blue Ant Extreme http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EDA811CE90A26AD414D02B63E0A9171A68A9454C&profile=pass,http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass
+Disney Channel http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass,http://203.153.218.28:9981/stream/channelid/1744735983?ticket=07E4904EDFA549D56E57107CB6140923FE593775&profile=pass
+Discovery Channel http://203.153.218.28:9981/stream/channelid/1151931232?ticket=D05F5F5AB713CBADFBFABB642E4F37D5004BB751&profile=pass,http://203.153.218.28:9981/stream/channelid/1868154562?ticket=21CAD98B63EE6B1D16AFD5B33F7C68F48FA445CD&profile=pass
+NAT GEO People,http://203.153.218.28:9981/stream/channelid/1114683377?ticket=39736C153BA658BB8604E39D479282644E09703E&profile=pass
+NAT GEO Wild http://203.153.218.28:9981/stream/channelid/1497533758?ticket=36B439E64C5884A941F9938AD9373C4B849363BA&profile=pass,http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D3433529578519E51673EA32&profile=pass
+Nickelodeon Asia http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass,http://203.153.218.28:9981/stream/channelid/3916
+SCTV http://210.210.155.35/qwr9ew/s/s103/01.m3u8,https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="INDONESIA", GTV HD https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
+iNews TV https://live.rctiplus.id/rctiplus/inews_720p.m3u8,http://images2.useetv.com/logo_beritasatu_big1.png?v=1.0.0.0" group-title="INDONESIA",Berita Satu News http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
+CNN Indonesia https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2099542994_b384000_sleng.m3u8,http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8?fluxustv.m3u8
+Fox Movies http://203.153.218.28:9981/stream/channelid/756717990?ticket=D9CDD7DB18E80023C22954FE693F71DB745D5CE7&profile=pass,ttps://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png鈥?group-title=鈥淭V NASIONAL鈥?RTV http://210.210.155.35/session/08fb7806-059c-11e9-9d77-c81f66f89318/qwr9ew/s/s12/01.m3u8 #EXTINF:-1 tvg-logo=鈥渉ttps://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png鈥?group-title=鈥淭V NASIONAL鈥?METROTV http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/master.m3u8 #EXTINF:-1 tvg-logo=鈥渉ttps://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png鈥?group-title=鈥淭V NASIONAL鈥?CNN INDONESIA HD MKC https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1705215623_b384000_sleng.m3u8 #EXTINF:-1 tvg-logo=鈥渉ttps://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png鈥?group-title=鈥淭V NASIONAL鈥?BERITA SATU HD http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8 #EXTINF:-1 tvg-logo=鈥渉ttps://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png鈥?group-title=鈥淭V NASIONAL鈥?BERITA SATU WORLD http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8 #EXTINF:-1 tvg-logo=鈥渉ttps://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png鈥?group-title=鈥淭V NASIONAL鈥?MYTV https://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8 #EXTINF:-1,TVKU http://103.30.1.14:8080/hls/live.m3u8 #EXTINF:-1,THE INDONESIA CHANNEL http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8 #EXTINF:-1,TVone http://id1.indostreamingtv.com/live/tv444/index.m3u8
+Netflix LIVE Movies 2 https://aldirect.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1_1200.m3u8 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJHke7PBTqvJO2r0vycAxMiQXJzIUvX1nrCRK27YZBv,http://stream1.ninmedia.tv/rctv/rtmp.stream_360p/playlist.m3u8 #EXTINF: -1 tvg-logo="https://cdn-kisikisi.qerja.com/assets/companies/images/logo/jambi-televisi-pt_fb.png" group-title="Ninmedia", JAMBI TV http://stream1.ninmedia.tv/jambitv/rtmp.stream_360p/playlist.m3u8 #EXTINF: -1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/11/PalTV_Palembang-250px.png" group-title="Ninmedia", PAL TV http://stream1.ninmedia.tv/paltv/rtmp.stream_360p/playlist.m3u8 #EXTINF: -1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/03/Logo-Oshop-bolong-250px.png" group-title="Ninmedia", O SHOP http://stream1.ninmedia.tv/oshop/udp.stream_360p/playlist.m3u8 #EXTINF: -1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Nabawi-TV-250px.png" group-title="Ninmedia", NABAWI TV http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8 #EXTINF: -1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/03/Ch-BETV-logo-250px.png" group-title="Ninmedia", BE TV http://stream1.ninmedia.tv/betv/rtmp.stream_360p/playlist.m3u8 #EXTINF: -1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/03/Ch-rbtv-logo-250px.png" group-title="Ninmedia", RBTV http://stream1.ninmedia.tv/rbtv/rtmp.stream_360p/playlist.m3u8 #EXTINF: -1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/08/Ch-DMI-Channel-01-Edit-250x111.jpg" group-title="Ninmedia", DMI TV http://stream1.ninmedia.tv/dmitv/udp.stream_360p/playlist.m3u8 #EXTINF: -1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Salingsapa-TV-03-250px.png" group-title="Ninmedia", SALINGSAPA http://stream1.ninmedia.tv/salingsapa/rtmp.stream_360p/playlist.m3u8 #EXTINF: -1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-NU-Channel-Logo-alpha-250px-1-234x300.png" group-title="Ninmedia", NU CHANNEL http://stream1.ninmedia.tv/nuchannel/udp.stream_360p/playlist.m3u8 #EXTINF: -1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-RRI-net-250px.png" group-title="Ninmedia", RRI NET http://stream1.ninmedia.tv/rrinet/udp.stream_360p/playlist.m3u8 #EXTINF: -1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/03/GPR-LOGO-250x94px.jpg" group-title="Ninmedia", GPR TV http://stream1.ninmedia.tv/gprtv/udp.stream_360p/playlist.m3u8 #EXTINF: -1 tvg-logo="https://i.ebayimg.com/images/g/k4sAAOSwDg1bTIQv/s-l300.jpg" group-title="Ninmedia", MI TV http://stream2.ninmedia.tv/mitv/rtmp.stream_360p/playlist.m3u8 #EXTINF: -1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Tribrata-TV-250px.jpg" group-title="Ninmedia", TRIBRATA TV http://stream1.ninmedia.tv/tribratatv/udp.stream_360p/playlist.m3u8 #EXTINF: -1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/11/Ch-POP-MUSIK-Channel-logo-FINAL-01-250px.png" group-title="Ninmedia", POP MUSIK http://stream1.ninmedia.tv/popmusik/udp.stream_360p/playlist.m3u8 #EXTINF: -1 group-title="Top doc ID Movies", 10 Minutes Gone (2019) https://w3.bagicdn.pro/drive//hls/990fb8a6754c326f63dc80302bbaa510/990fb8a6754c326f63dc80302bbaa510.m3u8 #EXTINF: -1 group-title="Top doc ID Movies", 6 Underground(2019) https://www.googleapis.com/drive/v3/files/13b_vLwMkFVp3W8HgBi21pt6I91uQjVec?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4 #EXTINF: -1 group-title="Top doc ID Movies", Abominable(2019) https://www.googleapis.com/drive/v3/files/17sDGwtnSLGrlbxUN8xDTbT8oVkBP5PPV?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4 #EXTINF: -1 group-title="Top doc ID Movies", AD Astra(2019) https://www.googleapis.com/drive/v3/files/1AnoMhojMIk9nM3J56Q8CaSnauP61A31o?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4 #EXTINF: -1 group-title="Top doc ID Movies", Aeronauts(2019) https://www.googleapis.com/drive/v3/files/1QxXWuBL8KCKXbwJA0LVaB2NiHyuQar98?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4 #EXTINF: -1 group-title="Top doc ID Movies", Aladdin (2019) https://w3.bagicdn.pro/drive//hls/edc613216de32e6a9d16aa86d4949ba3/edc613216de32e6a9d16aa86d4949ba3.m3u8 #EXTINF: -1 group-title="Top doc ID Movies", Aladdin (2019) https://www.dropbox.com/s/9p9ir5n323ubko
+Ip Man and Four Kings (2019) https://w3.bagicdn.pro/drive//hls/ffc41db043bf1441e3343cb65c71c283/ffc41db043bf1441e3343cb65c71c283.m3u8 #EXTINF: -1 group-title=",https://w3.bagicdn.pro/drive//hls/9bf5152d435728f23f5f922a87e12af5/9bf5152d435728f23f5f922a87e12af5.m3u8 #EXTINF: -1 group-title="Top doc ID Movies", John Wick 3 : Parabellum(2019) https://www.dropbox.com/s/rme7r96ezkq6ceq/John.Wick.Chapter.3.Parabellum.2019.720p.BluRay-PusatFilm21.com.mp4?dl=1 #EXTINF: -1 group-title="Top doc ID Movies", John Wick 3 Parabellum (2019) https://w3.bagicdn.pro/drive//hls/181685a19f0457ef47e62143f999ed47/181685a19f0457ef47e62143f999ed47.m3u8 #EXTINF: -1 group-title="Top doc ID Movies", Joker (2019) https://www.googleapis.com/drive/v3/files/1gdsesv39yVSPlRY7WM9GyJDgTiHkeZv6?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4 #EXTINF: -1 group-title="Top doc ID Movies", Joker (2019) HDCAM https://w3.bagicdn.pro/drive//hls/43f46451c80d1c60a1ef6f6ffd7a0c48/43f46451c80d1c60a1ef6f6ffd7a0c48.m3u8 #EXTINF: -1 group-title="Top doc ID Movies", Kill Chain (2019) https://w3.bagicdn.pro/drive//hls/4fe503242dbbbe985dfd4a274d0ca759/4fe503242dbbbe985dfd4a274d0ca759.m3u8 #EXTINF: -1 group-title="Top doc ID Movies", Lancaster Skies (2019) https://w3.bagicdn.pro/drive//hls/3d0a381051f4583839d759cae336287a/3d0a381051f4583839d759cae336287a.m3u8 #EXTINF: -1 group-title="Top doc ID Movies", Lintervention (2019) https://w3.bagicdn.pro/drive//hls/648ae9c12973490bf4c915d1089e3366/648ae9c12973490bf4c915d1089e3366.m3u8 #EXTINF: -1 group-title="Top doc ID Movies", Men in Black: International (2019) https://w3.bagicdn.pro/drive//hls/b6dcfc175c0de7bdbc26f564d3c0fdca/b6dcfc175c0de7bdbc26f564d3c0fdca.m3u8 #EXTINF: -1 group-title="Top doc ID Movies", Mule(2019) https://www.googleapis.com/drive/v3/files/1YsXH2V6TbScWzERFrACm9lTvBLuLobcs?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4 #EXTINF: -1 group-title="Top doc ID Movies", Parasite (2019) https://w3.bagicdn.pro/drive//hls/37053e9e463e9c3aa8fa25e60da727f2/37053e9e463e9c3aa8fa25e60da727f2.m3u8 #EXTINF: -1 group-title="Top doc ID Movies", Pokemon : Detective Pikachu(2019) https://www.dropbox.com/s/tm3v0cjd5fyzigv/Pokemon.Detective.Pikachu.2019.720p.BluRay-PusatFilm21.com.mp4?dl=1 #EXTINF: -1 group-title="Top doc ID Movies", Skyscraper(2018) https://gdrivecdn.us/drive/index.php?id=UvXgzIIzIZXJLVdsKqnslAzmjY6or72z7As3wgmvba8XGhEHb31Bxunb693RDTVy3pwJlA72jH3YzArgv8U1TEEOfRhyMX6bh9LcEF4UZTGMId9xzAw1jvY%2BRVjdgsEGM%3D&ref=&res=720 #EXTINF: -1 group-title="Top doc ID Movies", Spider-Man Far From Home (2019) https://w3.bagicdn.pro/drive//hls/67ca5ea70d4efade2acec2adf336a644/67ca5ea70d4efade2acec2adf336a644.m3u8 #EXTINF: -1 group-title="Top doc ID Movies", Stuber (2019) https://w3.bagicdn.pro/drive//hls/e2cb53989a3aa71988ddf7f822a89db1/e2cb53989a3aa71988ddf7f822a89db1.m3u8 #EXTINF: -1 group-title="Top doc ID Movies", Terminator Dark Fate (2019) HDCAM https://w3.bagicdn.pro/drive//hls/e320f5245cd448d6a66376994085ff91/e320f5245cd448d6a66376994085ff91.m3u8 #EXTINF: -1 group-title="Top doc ID Movies", The Bravest (2019) https://w3.bagicdn.pro/drive//hls/8073dddb0028da7697492471265c06f7/8073dddb0028da7697492471265c06f7.m3u8 #EXTINF: -1 group-title="Top doc ID Movies", The Cabin(2018) https://cdn.clonefile.icu/drive/index.php?id=6bc1Gb6f2UuTV9fT9cKn9w8TLNG2VkPUd87T8x4789huTDNa8LQ4OsmidV03Ay%2F08qI4GtAcliLuhnKavlqYn0NgZZKRjwNTwZRSUFYhZQlRFas9IVmw7Nd5FgzuWmvnCgeL7xzIvwx9PfRiaEtx9Xc6ox5Z%2Fk6NWyWEuqB19muFc7Dy1xuirUtlgW73lqANk%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-cabin%2F&res=default #EXTINF: -1 group-title="Top doc ID Movies", The Death and Return of Superman (2019) https://w3.bagicdn.pro/drive//hls/4bbf9b05bae6c3e8a8ac0fea114e9bb7/4bbf9b05bae6c3e8a8ac0fea114e9bb7.m3u8 #EXTINF: -1 group-title="Top doc ID Movies", The Kitchen (2019) https://w3.bagicdn.pro/drive//hls/0683618bcbd6697b7252ed2af69b2df4/0683618bcbd6697b7252ed2af69b2df4.m3u8 #EXTINF: -1 group-title="Top doc ID Movies", The Lion King (2019) https://w3.bagicdn.pro/drive//hls/40c66613310f8e42b705c533cec9d704/40c66613310f8e42b705c533cec9d704.m3u8 #EXTINF: -1 group-title="Top doc ID Movies", The Lion King(2019) https://www.googleapis.com/drive/v3/files/1AYka1PFma7JZZFNS3AwxCD2Anfa43x9k?a
+X-Men: Dark Phoenix (2019) https://w3.bagicdn.pro/drive//hls/12d455a29835681e28840127fac14e81/12d455a29835681e28840127fac14e81.m3u8 RAW Paste Data,http://images2.useetv.com/logo_kompastv_big1.png?v=1.0.0.0" group-title="INDONESIA",Kompas TV http://210.210.155.35/session/69927436-1aa3-11ea-a103-acecbc14f551/qwr9ew/s/s104/01.m3u8 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_indosiar_big1.png" group-title="INDONESIA", INDOSIAR http://210.210.155.35/session/4a2efd20-a94d-11e9-bbad-c81f66f89318/qwr9ew/s/s04/02.m3u8 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_cnnindonesia_big1.png?v=1.0.0.0" group-title="INDONESIA",CNN Indonesia https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2099542994_b384000_sleng.m3u8 #EXTINF:-1 tvg-logo="http://wallperio.com/data/out/263/naruto-wallpaper-hd_610191579.jpg" group-title="INDO LOKAL",Usee Photo https://livetvhooq.akamaized.net/c37364587aeb4050bd51a0b8068e976f/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569566771~exp=9007200824307762~acl=/c37364587aeb4050bd51a0b8068e976f/*/profile_2/chunklist.m3u8*~hmac=d444d67dbe78b01ffba4e087441366bd8243619ec7724cde63d884707c5a2cf9 #EXTINF:-1 tvg-logo="http://wallperio.com/data/out/263/naruto-wallpaper-hd_610191579.jpg" group-title="INDO LOKAL",Usee Prime https://livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569566690~exp=9007200824307681~acl=/8eb1108c494240ef94c5c8ae7e572c29/*/profile_2/chunklist.m3u8*~hmac=cc4223b8bfbb07d175ad755bd540d8f9f273de2b47c7ddb69470a49c4be61140
+CNN INDONESIA https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8,http://wallperio.com/data/out/263/naruto-wallpaper-hd_610191579.jpg" group-title="INDO LOKAL",Metro TV http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
+RCTI https://live.rctiplus.id/rctiplus/rcti_360p.m3u8,http://wallperio.com/data/out/263/naruto-wallpaper-hd_610191579.jpg" group-title="INDO LOKAL",RCTI ++ http://id6.indostreamingtv.com/live/rcti/index.m3u8
+SCTV ++ http://id1.indostreamingtv.com/live/sctv/index.m3u8,http://wallperio.com/data/out/263/naruto-wallpaper-hd_610191579.jpg" group-title="INDO LOKAL",ANTV http://210.210.155.35/qwr9ew/s/s102/01.m3u8
+ANTV ++ http://id2.indostreamingtv.com/live/antv/index.m3u8,http://wallperio.com/data/out/263/naruto-wallpaper-hd_610191579.jpg" gro
+Global TV ++ http://id6.indostreamingtv.com/live/tv1/index.m3u8,http://wallperio.com/data/out/263/naru
+BERITA SATU WORLD http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8,http://wallperio.com/data/out/263/naruto-wallpaper-hd_610191579.jpg" group-title="INDO LOKAL",TRANS TV ++ http://id2.indostreamingtv.com/live/tv33/index.m3u8
+TRANS 7 ++ http://id2.indostreamingtv.com/live/trans7/index.m3u8,http://wallperio.com/data/out/263/naruto-wallpaper-hd_610191579.jpg" group-title="INDO LOKAL",BERITA SATU http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+CNBC INDONESIA https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlis鈥?,https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJHke7PBTqvJO2r0vycAxMiQXJzIUvX1nrCRK27YZBvlMpF5Gl" group-title="Netflix", Netflix LIVE Movies 18 https://aldirect.hls.huya.com/huyalive/29359996-2689607114-11551774593718943744-2847687530-10057-A-1525492553-1_1200.m3u8 #EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/3f/42/d7/3f42d7f3faa421405c0a20df9b1109a9.jpg" group-title="Movies", First Movie Indonesia http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8 #EXTINF: -1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cc/Sinema_Indonesia.png/revision/latest?cb=20181017152803" group-title="Movies", SINEMA INDONESIA http://210.210.155.35:80/session/670515de-73b9-11e9-8f02-846587341add/x6bnqe/s/s71/S4/mnf.m3u8 #EXTINF: -1 tvg-logo="https://blackcinema.blackxperience.com/assets/images/logo.png" group-title="Movies", Black Cinema https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true #EXTINF: -1 tvg-logo="https://static.iptv-epg.com/id/HBO.id.png" group-title="Movies", HBO https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8 #EXTINF: -1 tvg-logo="https://static.iptv-epg.com/id/HBO.id.png" group-title="Movies", HBO http://cableserver1.cableguy.pro:82/live?cId=491&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s #EXTINF: -1 tvg-logo="https://static.iptv-epg.com/rs/HBO2.rs.png" group-title="Movies", HBO 2 http://cableserver1.cableguy.pro:82/live?cId=376&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s #EXTINF: -1 tvg-logo="https://static.iptv-epg.com/rs/HBO3.rs.png" group-title="Movies", HBO 3 http://cableserver1.cableguy.pro:82/live?cId=377&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s #EXTINF: -1 tvg-logo="https://static.iptv-epg.com/id/HBOHits.id.png" group-title="Movies", HBO Hits https://www.livedoomovie.com/02_HBOHit_720p/chunklist.m3u8 #EXTINF: -1 tvg-logo="https://static.iptv-epg.com/id/HBOSignature.id.png" group-title="Movies", HBO Signature https://www.livedoomovie.com/02_HBOSignature_720p/chunklist.m3u8 #EXTINF: -1 tvg-logo="https://static.iptv-epg.com/id/HBOSignature.id.png" group-title="Movies", HBO Signature ID http://203.207.56.228/live/iptv006.m3u8 #EXTINF: -1 tvg-logo="https://static.iptv-epg.com/id/HBOFamily.id.png" group-title="Movies", HBO Family ID http://203.207.56.228/live/iptv004.m3u8 #EXTINF: -1 tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1443770018_screen-red-sd-new.png" group-title="Movies", Red by HBO https://www.livedoomovie.com/02_RedbyHBO_720p/chunklist.m3u8 #EXTINF: -1 tvg-logo="https://static.iptv-epg.com/id/FOX.id.png" group-title="Movies", FOX https://www.livedoomovie.com/02_FoxThai_720p/chunklist.m3u8 #EXTINF: -1 tvg-logo="https://static.iptv-epg.com/qa/FoxRewayat.qa.png" group-title="Movies", FOX Rewayat http://cableserver1.cableguy.pro:82/live?cId=1670&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s #EXTINF: -1 tvg-logo="https://static.iptv-epg.com/id/FOXActionMovies.id.png" group-title="Movies", Fox Action Movies https://www.livedoomovie.com/02_FoxActionHD_TH_720p/chunklist.m3u8 #EXTINF: -1 tvg-logo="https://static.iptv-epg.com/id/FOXActionMovies.id.png" group-title="Movies", Fox Action Movies https://www.livedoomovie.com/02_FoxActionHD_720p/chunklist.m3u8 #EXTINF: -1 tvg-logo="https://static.iptv-epg.com/id/FOXActionMovies.id.png" group-title="Movies", FOX Action Movies http://cableserver1.cableguy.pro:82/live?cId=1665&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s #EXTINF: -1 tvg-logo="https://static.iptv-epg.com/id/FOXFamilyMovies.id.png" group-title="Movies", FOX Family Movies https://www.livedoomovie.com/02_Fo
+/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxIHBhITBxQWFhUXGCAbFxYXGBUgGhcaHxgYGxgeGCAYHiggIB0mIB4YITElJSkuLi4uGx8zODYtOCgtLi4BCgoKDg0OGhAQGy0lICIrKy4rNS0tKy0rKy0tLS0tKy0tLy0tLS0tLS0rLS4tKystLS8tLSstLS0tKy0tLS0tLf/AABEIAKIBNwMBIgACEQEDEQH/xAAcAAEAAgMBAQEAAAAAAAAAAAAABgcDBAUCAQj/xABHEAABAwIEAgcCCggDCQEAAAABAAIDBBEFBhIhMUEHEyJRYXGBMpEIFEJSYnJ0obGzFSMzNoKSwdE3svAXJCU0OENzhLQW/8QAGQEBAAMBAQAAAAAAAAAAAAAAAAECAwQF/8QAIhEBAQEAAgIBBQEBAAAAAAAAAAECAxEhMRIEEzJBUUIi/9oADAMBAAIRAxEAPwC8UREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBEWCorI6ZzRUPY0uNmhzgC49zbnc+SDOi4eYM1U2Ai1W68lriNli/15NHiSFuYBiJxfCY5nM0a79m97AOIG9hyF/VT1eu0dugiIoSIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICx1E7aaFz6hwa1ou5ziAAO8kr2otn3Lk2YKJgoZLaDcxONmP4WJIHEcr3G6nMlvVRb1Gvh2fY8UzI2nw6GSRhv+tHK3yi07iP6RN7kbbrg50x2ngxxxwKNrqqwY+otq0WuLRA3GviC4DbhvyxY1OzKGGmjwc3qHgGomHtAEbNaeWx27gb8XXUAqOy8AcO5dfHwzV7npjrk68V06d7oa8PreqdvciV5u43vcgOa4+/dWRhufaaCna2TSLfM0Bo77DUqrih0i8lvIBZjKeX9F036bN9s/u2el00WbaWs/ZSN9eHvFwuzFUNlHYK/PReCe20efA/cuphGO1GHSf7jISOcb9wRz348Fjv6Of5q+ef+rwnqBCQLXXuGVszLxG4/wBcfFQrBc3R4qwB40SN9tjjuBzcw/KaOY5eHPq1s7sMnEsG7Ts9vI9x8/Hw8Vya47nxWs12kaLBR1Ta2nD4DcH3g8wfFZ1muIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiIC+OdpC+rl45JL8TkGHC8mns+Z2v6cfRTJ3RAs9ZukjxK2GyujZATdzflycDccHNHs2IsTfwUpqcwzYXkxlRjDGtqHtFoxe2t19IIO+w3cL7WIULy/laSozVG3EGnqoR1jwQe06/YBv49o99lsdIWK/HMQe1m7Yuw0d7/AJR9+38K7Pt51qZz+vdYfKyW39oPVVpfM50pLnuJLieZO5JWXDcPkqjeNrnnwHDzW5hOUqmtAe1jiO+x3Vj4bgzqHDmN02232587rp+5nMZXF7VjU0r6eS1S0tPcQsJCsHMuGPrqZradpc8G+w4C2/v29yiTcFldUaA037rLbHJmzypc1y449bt1sRN+Lyh0OxH394K258GmpZwHtIPks9VhE1NEHTMcL+Cm3P8AT46cqoPUTtdES3mxw4tPgrPytXnMGWnNmA6xnYdbgSACxw8Dt7ioPBlqprqO8UbjY3Gx4HiFKejzCqjCK6ZlaxzWvYCCQeLXcPc4+5cv1Fzc+/Ma8c1KyYFi/wCjK+0p/VvNnfRPJ3pz8PIKfqu8YweQ1UpiaS0OPLle4UoyfXmtwgNm9uM6HeIHsn3WHmCvOrpjuIiKqRERAREQEREBERAREQEREBERAREQEREBERAXDz1M6nyXXvgcWubTylrmkgtIjcQQRuCu4uB0gfuLiH2aX8tyCBfB7zJLiuHVcGJSvkfG9r2uke5ztL26SAXEmwLL/wAa4efM0zzdM1NBQzSsiilgicxkjgx5MjXP1AGx9vSb/NUY6IMR/wDzOa6eerIENRHKxzu7T2vfqaz+ZcnCXSV2eKKsq9jU1weB/wCwy9vC5I/hQXX08RVEOU2VOFTSxOhkGvq5Hsux9m76SLnX1dr8LnvWhnbObv8AY1BU0khbNUtjj1sJBDxvNYjcexI31VkZiwpuOYDUU0vCWNzL9xIOk+hsfRfmLL8c+Yq/D8HrAQ2Kpk1i5BDSWulBtzaGSkH6RQXvk8yYJ0dQyYk98kxi61zpHOLtT+0xp1G+12tt5qDU5FVjcUchvuC6/Mk8/H+6nWfa4Q4aG8A54HoAT/QKu8uS9dmlp+nt5A2C7/p89cdrn5L/ANyMNVTVuaOlesoqKvnpmR6iwNfJoa1gYA1rWvaBx/HvX2lgrsp9LFFR1VfPUNeWl2p8mlzX62lpa57geH4dy38qv6vp5xIjkyU/lrt1uKxT4oJ6mlY+ojsGTEHW217W3ttcrk4+LW/TfWpPbT6b6qXBssQOwuWSJzqkhzo3uaXDQ7YlpBIUlzGTBkGomhc5soog4SAkODurHaBG9/FQXpnqTV5CpHScTUn8tyneaf8ADKo+wD8sJruasJ6RvoGzCcfw+anxhzpZoHB7HyOLnGN3EXJudLhz+eFq9ElbLi2LYuzE5ZJWsc3QJHucGfrJR2dRNtgOHcoH0eVLso49htbI60FS58UncAH6H38G3ik9Cpr0JC2PY1f5z,http://203.153.218.28:9981/stream/channelid/882386103?ticket=DF543FFEC6C497F485D61A1907E83292A2DB1741&profile=pass
+BBC World News http://203.153.218.28:9981/stream/channelid/861591723?ticket=F0599E847F90B5FE81ADFE5AD5296885A461DA19&profile=pass,http://203.153.218.28:9981/stream/channelid/78064174?ticket=4490D953FCAC1483DE94BE2C4D1F241E5319BCD8&profile=pass
+Blue Ant Extreme http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EDA811CE90A26AD414D02B63E0A9171A68A9454C&profile=pass,http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass
+Disney Channel http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass,http://203.153.218.28:9981/stream/channelid/1744735983?ticket=07E4904EDFA549D56E57107CB6140923FE593775&profile=pass
+Discovery Channel http://203.153.218.28:9981/stream/channelid/1151931232?ticket=D05F5F5AB713CBADFBFABB642E4F37D5004BB751&profile=pass,http://203.153.218.28:9981/stream/channelid/1868154562?ticket=21CAD98B63EE6B1D16AFD5B33F7C68F48FA445CD&profile=pass
+NAT GEO People http://203.153.218.28:9981/stream/channelid/1114683377?ticket=39736C153BA658BB8604E39D479282644E09703E&profile=pass,http://203.153.218.28:9981/stream/channelid/1497533758?ticket=36B439E64C5884A941F9938AD9373C4B849363BA&profile=pass
+National Geographic http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D3433529578519E51673EA32&profile=pass,http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass
+FOX SPORT http://185.93.1.216:8900/live/B2A463CD6CC8/B2A463CD6CC8/4755.ts #EXTINF:0 tvg-,https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="SPORT",SKYNET SPORT HD https://www.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="SPORT",ESPN EXTRA http://185.93.1.216:8900/live/B2A463CD6CC8/B2A463CD6CC8/4762.ts #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="SPORT",ESPN 2 HD http://185.93.1.216:8900/live/B2A463CD6CC8/B2A463CD6CC8/4763.ts #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="SPORT",TEN SPORT http://163.172.85.133:8080/TenS/sports/index.m3u8 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="SPORT",SKYNET SPORT6 https://livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="SPORT",BEIN SPORT1 http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="SPORT",BEIN SPORT2 http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="SPORT",BEIN SPORT3 http://95.170.215.106/hls/m3u8/Bein-Sport-HD3.m3u8 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="SPORT",SPORTmax http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="SPORT",ALL SPORT http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="SPORT",BEIN SOPORT LALIGA http://95.170.215.106/hls/m3u8/Bein-Sport-HD3.m3u8 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="SPORT"OLYMPIC CHANNEL http://ott-live.olympicchannel.com/out/u/OC2_1.m3u8 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="SPORT",REAL MADRID TV http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="SPORT",FOX SPORT http://45.58.62.92:8080 #EXTINF:-1 tvg-logo="https://i.imgur.com/j13oDDt.png" group-title="SPORT",KTV Sport (Opt-1) http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3 #EXTINF:-1 tvg-logo="https://i.imgur.com/j13oDDt.png" group-title="SPORT",KTV Sport (Opt-2) https://svs.itworkscdn.net/ktvsportslive/smil:ksports.smil/chunklist_b2400000.m3u8 #EXTINF:-1 tvg-logo="https://i.imgur.com/xPdB8qI.png" group-title="SPORT",ON Sport (Opt-1) http://149.100.10.162:8011/play/s234 #EXTINF:-1 tvg-logo="https://i.imgur.com/xPdB8qI.png" group-title="SPORT",ON Sport (Opt-2) http://149.100.10.162:8018/play/s213 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="SPORT",KUWAIT ONE http://wms.tecnoxia.com:1935/8158/8158/chunklist_w299184953.m3u8 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="SPORT",FLOW SPORT http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="SPORT",SPORT MAX http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="SPORT",AD Sport 1 HD http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8 #EXTINF:-1 tvg-logo="https://i.imgur.com/OwaJr1I.png" group-title="SPORT",Oman Sport http://38.96.148.35:1935/live/omantv02/playlist.m3u8 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="SPORT",AD Sport 2 HD http://adtv.ercdn.n #EXTINF:-1 group-title="SPORT",Itali SportS HD http://wms.shared.streamshow.it/irctv/mp4:irctv/playlist.m3u8 #EXTINF:-1 group-title="SPORT",FOX Sport 鈥
+
+
+suhertest2,#genre# 
+ASTRO RIA,http://starshare.live:8080/live/543678/546789/5466.ts
+ASTRO PRIMA HD,http://starshare.live:8080/live/543678/546789/5467.ts
+ASTRO OASIS HD,http://starshare.live:8080/live/543678/546789/5468.ts
+ASTRO WARNA HD,http://starshare.live:8080/live/543678/546789/5469.ts
+ASTRO NAURA,http://starshare.live:8080/live/543678/546789/5470.ts
+ASTRO VAANAVIL,http://starshare.live:8080/live/543678/546789/5471.ts
+ASTRO VINMEEN HD,http://starshare.live:8080/live/543678/546789/5472.ts
+ASTRO BOLLYONE HD,http://starshare.live:8080/live/543678/546789/5473.ts
+ASTRO XIAO TAI YANG HD,http://starshare.live:8080/live/543678/546789/5474.ts
+ASTRO AEC HD,http://starshare.live:8080/live/543678/546789/5475.ts
+ASTRO QUAN JIA HD,http://starshare.live:8080/live/543678/546789/5476.ts
+ASTRO HUA HEE DAI HD,http://starshare.live:8080/live/543678/546789/5477.ts
+ASTRO CERIA HD,http://starshare.live:8080/live/543678/546789/5478.ts
+mysport,http://starshare.live:8080/live/543678/546789/5947.ts
+Mysport 1 HD,http://starshare.live:8080/live/543678/546789/5948.ts
+Mysport 2 FHD,http://starshare.live:8080/live/543678/546789/5949.ts
+Mysport 2 HD,http://starshare.live:8080/live/543678/546789/5950.ts
+Mysport 3 HD,http://starshare.live:8080/live/543678/546789/5951.ts
+Mysport 4 HD,http://starshare.live:8080/live/543678/546789/5952.ts
+Mysport 5 HD,http://starshare.live:8080/live/543678/546789/5953.ts
+Mysport 6 HD,http://starshare.live:8080/live/543678/546789/5954.ts
+Mysport 7 HD,http://starshare.live:8080/live/543678/546789/5955.ts
+Mysport 8 HD,http://starshare.live:8080/live/543678/546789/5956.ts
+Mysport 9 HD,http://starshare.live:8080/live/543678/546789/5957.ts
+Premier Sport 1,http://starshare.live:8080/live/543678/546789/5029.ts
+Premier Sport 2,http://starshare.live:8080/live/543678/546789/5030.ts
+Sky Sport 1 SD,http://starshare.live:8080/live/543678/546789/6824.ts
+Sky Sport 2 SD,http://starshare.live:8080/live/543678/546789/6827.ts
+Sky Sport 3 SD,http://starshare.live:8080/live/543678/546789/6830.ts
+Sky Sport 4 SD,http://starshare.live:8080/live/543678/546789/6833.ts
+Sky Sport 5 SD,http://starshare.live:8080/live/543678/546789/6836.ts
+Sky Sport 6 SD,http://starshare.live:8080/live/543678/546789/6839.ts
+Sky Sport 7 SD,http://starshare.live:8080/live/543678/546789/6842.ts
+Sky Sport 8 SD,http://starshare.live:8080/live/543678/546789/6845.ts
+Sky Sport 9 SD,http://starshare.live:8080/live/543678/546789/6848.ts
+Sky Sport 10 SD,http://starshare.live:8080/live/543678/546789/6851.ts
+Sky Sport 11 SD,http://starshare.live:8080/live/543678/546789/6854.ts
+Sky Sport 13 Hd,http://starshare.live:8080/live/543678/546789/6858.ts
+Sky Sport 14 Hd,http://starshare.live:8080/live/543678/546789/6860.ts
+Sky Sport Bundeliga 1 Hd,http://starshare.live:8080/live/543678/546789/6863.ts
+Sky Sport Bundeliga 1 SD,http://starshare.live:8080/live/543678/546789/6864.ts
+Sky Sport Bundeliga 2 FHd,http://starshare.live:8080/live/543678/546789/6865.ts
+Sky Sport Bundeliga 2 Hd,http://starshare.live:8080/live/543678/546789/6866.ts
+Sky Sport Bundeliga 2 SD,http://starshare.live:8080/live/543678/546789/6867.ts
+Sky Sport Bundeliga 3 SD,http://starshare.live:8080/live/543678/546789/6870.ts
+Sky Sport Bundeliga 4 SD,http://starshare.live:8080/live/543678/546789/6873.ts
+Sky Sport Bundeliga 5 SD,http://starshare.live:8080/live/543678/546789/6876.ts
+Sky Sport Bundeliga 6 SD,http://starshare.live:8080/live/543678/546789/6879.ts
+Sky Sport Bundeliga 7 SD,http://starshare.live:8080/live/543678/546789/6882.ts
+Sky Sport Bundeliga 8 SD,http://starshare.live:8080/live/543678/546789/6885.ts
+Sky Sport Bundeliga 9 SD,http://starshare.live:8080/live/543678/546789/6888.ts
+Sky Sport Bundeliga 10 SD,http://starshare.live:8080/live/543678/546789/6891.ts
+astro arena hd,http://starshare.live:8080/live/543678/546789/5479.ts
+astro super sport 1 hd,http://starshare.live:8080/live/543678/546789/5480.ts
+astro super sport 2 hd,http://starshare.live:8080/live/543678/546789/5481.ts
+astro super sport 3 hd,http://starshare.live:8080/live/543678/546789/5482.ts
+astro super sport 4 hd,http://starshare.live:8080/live/543678/546789/5483.ts
+astro rugby pass tv,http://starshare.live:8080/live/543678/546789/5484.ts
+Astro Rania HD,http://starshare.live:8080/live/543678/546789/5485.ts
+Astro Aura HD,http://starshare.live:8080/live/543678/546789/5486.ts
+[MY] TV ALHIJRAH,http://starshare.live:8080/live/543678/546789/5624.ts
+[MY] COLORS HD,http://starshare.live:8080/live/543678/546789/5625.ts
+[MY] GO SHOP RUUMA,http://starshare.live:8080/live/543678/546789/5626.ts
+[MY] GO SHOP GAAYA,http://starshare.live:8080/live/543678/546789/5627.ts
+[MY] MAKKAL TV,http://starshare.live:8080/live/543678/546789/5628.ts
+[MY] SUN MUSIC,http://starshare.live:8080/live/543678/546789/5629.ts
+[MY] CHUTTI TV,http://starshare.live:8080/live/543678/546789/5630.ts
+[MY] ADITHYA,http://starshare.live:8080/live/543678/546789/5631.ts
+[MY] ZEE Tamil HD,http://starshare.live:8080/live/543678/546789/5632.ts
+[MY] STAR VIJAY HD,http://starshare.live:8080/live/543678/546789/5633.ts
+[MY] COLORS TAMIL,http://starshare.live:8080/live/543678/546789/5634.ts
+[MY] SUN TV HD,http://starshare.live:8080/live/543678/546789/5635.ts
+[MY] iQIYI HD,http://starshare.live:8080/live/543678/546789/5636.ts
+[MY] GO SHOP 2,http://starshare.live:8080/live/543678/546789/5637.ts
+[MY] TVB CLASSIC,http://starshare.live:8080/live/543678/546789/5638.ts
+[MY] SHUANG XING HD,http://starshare.live:8080/live/543678/546789/5639.ts
+Celestial HD,http://starshare.live:8080/live/543678/546789/5640.ts
+[MY] WLT | JADE,http://starshare.live:8080/live/543678/546789/5641.ts
+[MY] AOD 351 HD,http://starshare.live:8080/live/543678/546789/5642.ts
+[MY] CTI ASIA,http://starshare.live:8080/live/543678/546789/5643.ts
+[MY] TVB E-NEWS,http://starshare.live:8080/live/543678/546789/5644.ts
+[MY] TVB XING HE HD,http://starshare.live:8080/live/543678/546789/5645.ts
+[MY] TVBS ASIA HD,http://starshare.live:8080/live/543678/546789/5646.ts
+[MY] CCM,http://starshare.live:8080/live/543678/546789/5647.ts
+[MY] CCTV4 HD,http://starshare.live:8080/live/543678/546789/5648.ts
+[MY] AOD 352 HD,http://starshare.live:8080/live/543678/546789/5649.ts
+[MY] AOD 353 HD,http://starshare.live:8080/live/543678/546789/5650.ts
+[MY] AOD 354 HD,http://starshare.live:8080/live/543678/546789/5651.ts
+[MY] AOD 355 HD,http://starshare.live:8080/live/543678/546789/5652.ts
+[MY] KBS World HD,http://starshare.live:8080/live/543678/546789/5653.ts
+[MY] ONE HD,http://starshare.live:8080/live/543678/546789/5654.ts
+[MY] Oh!K HD,http://starshare.live:8080/live/543678/546789/5655.ts
+[MY] tvN HD,http://starshare.live:8080/live/543678/546789/5656.ts
+Hits Movie HD,http://starshare.live:8080/live/543678/546789/5657.ts
+HBO HD,http://starshare.live:8080/live/543678/546789/5658.ts
+CINEMAX HD,http://starshare.live:8080/live/543678/546789/5659.ts
+tv Movie,http://starshare.live:8080/live/543678/546789/5660.ts
+ASTRO AWANI,http://starshare.live:8080/live/543678/546789/5661.ts
+[MY] BNC,http://starshare.live:8080/live/543678/546789/5662.ts
+[MY] CGTN,http://starshare.live:8080/live/543678/546789/5663.ts
+[MY] CNN HD,http://starshare.live:8080/live/543678/546789/5664.ts
+[MY] BBC News HD,http://starshare.live:8080/live/543678/546789/5665.ts
+[MY] AL JAZEERA HD,http://starshare.live:8080/live/543678/546789/5666.ts
+[MY] SKY NEWS HD,http://starshare.live:8080/live/543678/546789/5667.ts
+[MY] CNA HD,http://starshare.live:8080/live/543678/546789/5668.ts
+[MY] CNBC,http://starshare.live:8080/live/543678/546789/5669.ts
+[MY] BLOOMBERG TV,http://starshare.live:8080/live/543678/546789/5670.ts
+[MY] ABC AUSTRALIA,http://starshare.live:8080/live/543678/546789/5671.ts
+[MY] NGW HD,http://starshare.live:8080/live/543678/546789/5672.ts
+[MY] NAT GEO HD,http://starshare.live:8080/live/543678/546789/5673.ts
+[MY] DISCOVERY HD,http://starshare.live:8080/live/543678/546789/5674.ts
+[MY] DISCOVERY ASIA,http://starshare.live:8080/live/543678/546789/5675.ts
+[MY] DISC SCI HD,http://starshare.live:8080/live/543678/546789/5676.ts
+[MY] HISTORY HD,http://starshare.live:8080/live/543678/546789/5677.ts
+[MY] ANIMAL PLANET HD,http://starshare.live:8080/live/543678/546789/5678.ts
+[MY] TUTOR TV UPSR,http://starshare.live:8080/live/543678/546789/5679.ts
+[MY] TUTOR TV PT3,http://starshare.live:8080/live/543678/546789/5680.ts
+[MY] TUTOR TV SPM,http://starshare.live:8080/live/543678/546789/5681.ts
+[MY] TVIQ,http://starshare.live:8080/live/543678/546789/5682.ts
+DISNEY XD HD,http://starshare.live:8080/live/543678/546789/5683.ts
+DISNE JUNIOR,http://starshare.live:8080/live/543678/546789/5684.ts
+DISNEY CHANNEL HD,http://starshare.live:8080/live/543678/546789/5685.ts
+CARTOON NTWK HD,http://starshare.live:8080/live/543678/546789/5686.ts
+NICKELODEON HD,http://starshare.live:8080/live/543678/546789/5687.ts
+NICK JR,http://starshare.live:8080/live/543678/546789/5688.ts
+AXN HD,http://starshare.live:8080/live/543678/546789/5689.ts
+ASTRO HELLO,http://starshare.live:8080/live/543678/546789/5690.ts
+KIX HD,http://starshare.live:8080/live/543678/546789/5691.ts
+HITS HD,http://starshare.live:8080/live/543678/546789/5692.ts
+[MY] TLC HD,http://starshare.live:8080/live/543678/546789/5693.ts
+[MY] FOOD NTWK HD,http://starshare.live:8080/live/543678/546789/5694.ts
+AFN HD,http://starshare.live:8080/live/543678/546789/5695.ts
+[MY] NATGEO PEOPLE,http://starshare.live:8080/live/543678/546789/5696.ts
+WARNER TV,http://starshare.live:8080/live/543678/546789/5697.ts
+[MY] C&I HD,http://starshare.live:8080/live/543678/546789/5698.ts
+[MY] HGTV HD,http://starshare.live:8080/live/543678/546789/5699.ts
+[MY] DMAX HD,http://starshare.live:8080/live/543678/546789/5700.ts
+[MY] COMEDY CENTRAL,http://starshare.live:8080/live/543678/546789/5701.ts
+[MY] MTV,http://starshare.live:8080/live/543678/546789/5702.ts
+ANIMAX,http://starshare.live:8080/live/543678/546789/5703.ts
+[MY] eGG Network,http://starshare.live:8080/live/543678/546789/5704.ts
+Fox Sports HD,http://starshare.live:8080/live/543678/546789/5705.ts
+Fox Sports 2 HD,http://starshare.live:8080/live/543678/546789/5706.ts
+Fox Sports 3 HD,http://starshare.live:8080/live/543678/546789/5707.ts
+beIN Sports,http://starshare.live:8080/live/543678/546789/5708.ts
+[MY] bEIN MAX,http://starshare.live:8080/live/543678/546789/5709.ts
+EUROSPORT HD,http://starshare.live:8080/live/543678/546789/5710.ts
+[MY] WWE NETWORK,http://starshare.live:8080/live/543678/546789/5711.ts
+[MY] GOLF CHANNEL HD,http://starshare.live:8080/live/543678/546789/5712.ts
+[MY] ANIPLUS HD,http://starshare.live:8080/live/543678/546789/5713.ts
+[MY] KPLUS HD,http://starshare.live:8080/live/543678/546789/5714.ts
+[MY] DW HD,http://starshare.live:8080/live/543678/546789/5715.ts
+[MY] FRANCE24 HD,http://starshare.live:8080/live/543678/546789/5716.ts
+Astro Citra HD,http://starshare.live:8080/live/543678/546789/5717.ts
+FOX Action Movies,http://starshare.live:8080/live/543678/546789/5718.ts
+FOX HD,http://starshare.live:8080/live/543678/546789/5719.ts
+FOX Family Movies,http://starshare.live:8080/live/543678/546789/5720.ts
+ABO Movies Thangthirai HD,http://starshare.live:8080/live/543678/546789/5721.ts
+TV1,http://starshare.live:8080/live/543678/546789/5722.ts
+TV2,http://starshare.live:8080/live/543678/546789/5723.ts
+TV3,http://starshare.live:8080/live/543678/546789/5724.ts
+BOO HD,http://starshare.live:8080/live/543678/546789/5725.ts
+Astro Office Movies tayangan Hebat HD,http://starshare.live:8080/live/543678/546789/5726.ts
+8TV,http://starshare.live:8080/live/543678/546789/5727.ts
+TV9,http://starshare.live:8080/live/543678/546789/5728.ts
+Drama sangat,http://starshare.live:8080/live/543678/546789/5729.ts
+NTN7,http://starshare.live:8080/live/543678/546789/5730.ts
+Baby TV,http://starshare.live:8080/live/543678/546789/5731.ts
+[MY] BBC Earth HD,http://starshare.live:8080/live/543678/546789/5732.ts
+[MY] BBC Lifestyle,http://starshare.live:8080/live/543678/546789/5733.ts
+[MY] Blue Ant Entertainment,http://starshare.live:8080/live/543678/546789/5734.ts
+[MY] Blue Ant Extreme,http://starshare.live:8080/live/543678/546789/5735.ts
+[MY] Boomerang HD,http://starshare.live:8080/live/543678/546789/5736.ts
+Cinema World HD,http://starshare.live:8080/live/543678/546789/5737.ts
+[MY] Colors Cineplex,http://starshare.live:8080/live/543678/546789/5738.ts
+Dreamworks HD,http://starshare.live:8080/live/543678/546789/5739.ts
+Dunia Sinema,http://starshare.live:8080/live/543678/546789/5740.ts
+FOX Life HD,http://starshare.live:8080/live/543678/546789/5741.ts
+FOX Movies HD,http://starshare.live:8080/live/543678/546789/5742.ts
+FX Cinema HD,http://starshare.live:8080/live/543678/546789/5743.ts
+[MY] Jaya Max,http://starshare.live:8080/live/543678/546789/5744.ts
+[MY] MTV Asia,http://starshare.live:8080/live/543678/546789/5745.ts
+[MY] NatGeo Asia HD,http://starshare.live:8080/live/543678/546789/5746.ts
+[MY] Now Chinese Drama,http://starshare.live:8080/live/543678/546789/5747.ts
+[MY] Now Jelli,http://starshare.live:8080/live/543678/546789/5748.ts
+[MY] Paramount Channel,http://starshare.live:8080/live/543678/546789/5749.ts
+[MY] Pesona HD,http://starshare.live:8080/live/543678/546789/5750.ts
+Salaam HD,http://starshare.live:8080/live/543678/546789/5751.ts
+SCM Legend,http://starshare.live:8080/live/543678/546789/5752.ts
+[MY] SCM,http://starshare.live:8080/live/543678/546789/5753.ts
+SETi Chinese,http://starshare.live:8080/live/543678/546789/5754.ts
+[MY] Sony SAB,http://starshare.live:8080/live/543678/546789/5755.ts
+[MY] Sony SetMAX,http://starshare.live:8080/live/543678/546789/5756.ts
+[MY] Sony TV,http://starshare.live:8080/live/543678/546789/5757.ts
+[MY] Star Chinese Channel HD,http://starshare.live:8080/live/543678/546789/5758.ts
+[MY] Travel Channel HD,http://starshare.live:8080/live/543678/546789/5759.ts
+UTV Movies International,http://starshare.live:8080/live/543678/546789/5760.ts
+XXX: XY plus,http://starshare.live:8080/live/543678/546789/59.ts
+XXX: CENTOXCENTO TV,http://starshare.live:8080/live/543678/546789/60.ts
+XXX: DORCEL,http://starshare.live:8080/live/543678/546789/61.ts
+XXX: Blue Hustler,http://starshare.live:8080/live/543678/546789/62.ts
+XXX: BRAZZERS TV EUROPE,http://starshare.live:8080/live/543678/546789/63.ts
+XXX: EROTIC 3,http://starshare.live:8080/live/543678/546789/64.ts
+XXX: Fake Taxi FHD 1080p,http://starshare.live:8080/live/543678/546789/65.ts
+XXX: ALBA XXX 1 HD,http://starshare.live:8080/live/543678/546789/66.ts
+XXX: EROTIC 1,http://starshare.live:8080/live/543678/546789/67.ts
+XXX: EROTIC 3,http://starshare.live:8080/live/543678/546789/68.ts
+XXX: ALBA XXX 2 HD,http://starshare.live:8080/live/543678/546789/69.ts
+XXX: EROTIC 5,http://starshare.live:8080/live/543678/546789/70.ts
+XXX: EROTIC 6,http://starshare.live:8080/live/543678/546789/71.ts
+XXX: ALBA XXX 3,http://starshare.live:8080/live/543678/546789/72.ts
+XXX: EROTIC 8,http://starshare.live:8080/live/543678/546789/73.ts
+XXX: Hot Club 1,http://starshare.live:8080/live/543678/546789/74.ts
+XXX: Hot Club 2,http://starshare.live:8080/live/543678/546789/75.ts
+XXX: Hot Club 3,http://starshare.live:8080/live/543678/546789/76.ts
+XXX: Hot Club 4,http://starshare.live:8080/live/543678/546789/77.ts
+XXX: Hot Club 5,http://starshare.live:8080/live/543678/546789/78.ts
+XXX: Hot Club 6,http://starshare.live:8080/live/543678/546789/79.ts
+XXX: Hot Club 7,http://starshare.live:8080/live/543678/546789/80.ts
+XXX: Hot Club 8,http://starshare.live:8080/live/543678/546789/81.ts
+XXX: Hot Club 9,http://starshare.live:8080/live/543678/546789/82.ts
+XXX:  ALBA XXX 4,http://starshare.live:8080/live/543678/546789/585.ts
+XXX: ALBA XXX 5,http://starshare.live:8080/live/543678/546789/586.ts
+XXX: ALBA XXX 6,http://starshare.live:8080/live/543678/546789/587.ts
+XXX: HOT MiX 22,http://starshare.live:8080/live/543678/546789/588.ts
+XXX: HOT,http://starshare.live:8080/live/543678/546789/589.ts
+XXX: HOT CLUB 1,http://starshare.live:8080/live/543678/546789/590.ts
+XXX: BLACKED FHD 1080p,http://starshare.live:8080/live/543678/546789/591.ts
+XXX: CZECH STREETS FHD 1080p,http://starshare.live:8080/live/543678/546789/592.ts
+XXX : VENUS TV,http://starshare.live:8080/live/543678/546789/593.ts
+XXX: Babes TV HD,http://starshare.live:8080/live/543678/546789/594.ts
+XXX: FAKE HOSPITAL,http://starshare.live:8080/live/543678/546789/595.ts
+XXX: FTV Midnight Secrets HD,http://starshare.live:8080/live/543678/546789/596.ts
+XXX: Juice,http://starshare.live:8080/live/543678/546789/597.ts
+XXX: PenthouseX,http://starshare.live:8080/live/543678/546789/598.ts
+XXX : PlayBoy TV,http://starshare.live:8080/live/543678/546789/1258.ts
+XXX: JASMIN.TV HD,http://starshare.live:8080/live/543678/546789/1259.ts
+VIP-XXX: Adult TINY4K 1 1080p,http://starshare.live:8080/live/543678/546789/1260.ts
+VIP-XXX: Adult TINY4K 2 1080p,http://starshare.live:8080/live/543678/546789/1261.ts
+VIP-XXX: Adult TINY4K 3 1080p,http://starshare.live:8080/live/543678/546789/1262.ts
+VIP-XXX: Adult TINY4K 4 1080p,http://starshare.live:8080/live/543678/546789/1263.ts
+VIP-XXX: Adult TINY4K 5 1080p,http://starshare.live:8080/live/543678/546789/1264.ts
+VIP-XXX: Adult TINY4K 6 1080p,http://starshare.live:8080/live/543678/546789/1265.ts
+VIP-XXX: Adult TINY4K 7 1080p,http://starshare.live:8080/live/543678/546789/1266.ts
+XXX: SEXT6SENSO,http://starshare.live:8080/live/543678/546789/1267.ts
+XXX: PRIVATE,http://starshare.live:8080/live/543678/546789/1268.ts
+XXX: EROXXX,http://starshare.live:8080/live/543678/546789/1269.ts
+XXX: PINK O,http://starshare.live:8080/live/543678/546789/1270.ts
+XXX: HOT,http://starshare.live:8080/live/543678/546789/1271.ts
+XXX: XXL TV,http://starshare.live:8080/live/543678/546789/1272.ts
+XXX: SCT,http://starshare.live:8080/live/543678/546789/1273.ts
+XXX: PENTHOUSE GOLD HD,http://starshare.live:8080/live/543678/546789/1274.ts
+XXX: RUSSKAYA NOCH,http://starshare.live:8080/live/543678/546789/1275.ts
+XXX: MAX PORN 1,http://starshare.live:8080/live/543678/546789/6116.ts
+XXX: MAX PORN 2,http://starshare.live:8080/live/543678/546789/6117.ts
+XXX: Alba 2,http://starshare.live:8080/live/543678/546789/6118.ts
+XXX: Alba 3,http://starshare.live:8080/live/543678/546789/6119.ts
+XXX: Alba 4,http://starshare.live:8080/live/543678/546789/6120.ts
+XXX: SHOT TV,http://starshare.live:8080/live/543678/546789/6121.ts
+XXX: OLDTIMER,http://starshare.live:8080/live/543678/546789/6122.ts
+XXX: TABOO,http://starshare.live:8080/live/543678/546789/6123.ts
+XXX: Super ONE HD,http://starshare.live:8080/live/543678/546789/6124.ts
+XXX: French Lover,http://starshare.live:8080/live/543678/546789/6125.ts
+XXX: SHALUN TV,http://starshare.live:8080/live/543678/546789/6126.ts
+XXX: BABES TV,http://starshare.live:8080/live/543678/546789/6127.ts
+XXX: HOTWIFE PREMIUM,http://starshare.live:8080/live/543678/546789/6128.ts
+XXX: PORNHUB PREMIUM,http://starshare.live:8080/live/543678/546789/6129.ts
+XXX: Vixen TV ELITE,http://starshare.live:8080/live/543678/546789/6130.ts
+XXX: TUSHY TV,http://starshare.live:8080/live/543678/546789/6131.ts
+XXX: DIGITAL PLAYGROUND,http://starshare.live:8080/live/543678/546789/6132.ts
+XXX: ROCCO TV PREMIUM,http://starshare.live:8080/live/543678/546789/6133.ts
+XXX: ROCCO TV 7/24,http://starshare.live:8080/live/543678/546789/6134.ts
+XXX: BLACKED TV PREMIUM,http://starshare.live:8080/live/543678/546789/6135.ts
+XXX: BLACKED RAW,http://starshare.live:8080/live/543678/546789/6136.ts
+XXX: TRANS Premium,http://starshare.live:8080/live/543678/546789/6137.ts
+XXX: Turkce Altyazili YENI,http://starshare.live:8080/live/543678/546789/6138.ts
+XXX: Turkce Altyazili 1,http://starshare.live:8080/live/543678/546789/6139.ts
+XXX: Turkce Altyazili 2,http://starshare.live:8080/live/543678/546789/6140.ts
+XXX: Turkce Altyazili 3,http://starshare.live:8080/live/543678/546789/6141.ts
+XXX: Turkce Altyazili 4,http://starshare.live:8080/live/543678/546789/6142.ts
+XXX: TÜRK AMATÖRLER,http://starshare.live:8080/live/543678/546789/6143.ts
+XXX: YESILCAM,http://starshare.live:8080/live/543678/546789/6144.ts
+XXX: HENTAI,http://starshare.live:8080/live/543678/546789/6145.ts
+XXX: PURE BABES,http://starshare.live:8080/live/543678/546789/6146.ts
+XXX: OX-AX TV,http://starshare.live:8080/live/543678/546789/6147.ts
+XXX: Mad Sex Party,http://starshare.live:8080/live/543678/546789/6148.ts
+XXX: Beate UHSE TV,http://starshare.live:8080/live/543678/546789/6149.ts
+XXX: DUSK TV,http://starshare.live:8080/live/543678/546789/6150.ts
+XXX: FILMAX Adult 1 HD,http://starshare.live:8080/live/543678/546789/6151.ts
+XXX: FILMAX Adult 2 HD,http://starshare.live:8080/live/543678/546789/6152.ts
+XXX: FILMAX Adult 3 HD,http://starshare.live:8080/live/543678/546789/6153.ts
+XXX: FILMAX Adult 5 HD,http://starshare.live:8080/live/543678/546789/6154.ts
+XXX: FILMAX Adult 6 HD,http://starshare.live:8080/live/543678/546789/6155.ts
+XXX: FILMAX Adult 7 HD,http://starshare.live:8080/live/543678/546789/6156.ts
+XXX: FILMAX Adult 8 HD,http://starshare.live:8080/live/543678/546789/6157.ts
+XXX: FILMAX Adult 9 HD,http://starshare.live:8080/live/543678/546789/6158.ts
+XXX: FILMAX Adult 10 HD,http://starshare.live:8080/live/543678/546789/6159.ts
+XXX: BALKAN EROTIC,http://starshare.live:8080/live/543678/546789/6160.ts
+XXX: O-LA-LA,http://starshare.live:8080/live/543678/546789/6161.ts
+XXX: HUSTLER HD,http://starshare.live:8080/live/543678/546789/6162.ts
+XXX: REDLIGHT HD,http://starshare.live:8080/live/543678/546789/6163.ts
+XXX: DORCEL XXX TV,http://starshare.live:8080/live/543678/546789/6164.ts
+XXX: SCT,http://starshare.live:8080/live/543678/546789/6165.ts
+XXX: Prive TV,http://starshare.live:8080/live/543678/546789/6166.ts
+XXX: NUART TV,http://starshare.live:8080/live/543678/546789/6167.ts
+XXX: CANDY,http://starshare.live:8080/live/543678/546789/6168.ts
+XXX: VIVID RED,http://starshare.live:8080/live/543678/546789/6169.ts
+XXX: Passie TV,http://starshare.live:8080/live/543678/546789/6170.ts
+XXX: ОХ-АХ HD,http://starshare.live:8080/live/543678/546789/6171.ts
+XXX: FAP TV 2,http://starshare.live:8080/live/543678/546789/6172.ts
+XXX: FAP TV 3,http://starshare.live:8080/live/543678/546789/6173.ts
+XXX: FAP TV 4,http://starshare.live:8080/live/543678/546789/6174.ts
+XXX: FAP TV ANAL,http://starshare.live:8080/live/543678/546789/6175.ts
+XXX: FAP TV PARODY,http://starshare.live:8080/live/543678/546789/6176.ts
+XXX: FAP TV TEENS,http://starshare.live:8080/live/543678/546789/6177.ts
+XXX: FAP TV COMPILATION,http://starshare.live:8080/live/543678/546789/6178.ts
+XXX: PINK EROTICA 2,http://starshare.live:8080/live/543678/546789/6179.ts
+XXX: PINK EROTICA 4,http://starshare.live:8080/live/543678/546789/6180.ts
+XXX: PINK EROTICA 6,http://starshare.live:8080/live/543678/546789/6181.ts
+XXX: PINK EROTICA 7,http://starshare.live:8080/live/543678/546789/6182.ts
+XXX: PINK EROTICA 8,http://starshare.live:8080/live/543678/546789/6183.ts
+XXX: Anal TV,http://starshare.live:8080/live/543678/546789/6184.ts
+XXX: Big Ass TV,http://starshare.live:8080/live/543678/546789/6185.ts
+XXX: Big Dick TV,http://starshare.live:8080/live/543678/546789/6186.ts
+XXX: Big Tits TV,http://starshare.live:8080/live/543678/546789/6187.ts
+XXX: Blonde TV,http://starshare.live:8080/live/543678/546789/6188.ts
+XXX: Blowjob TV,http://starshare.live:8080/live/543678/546789/6189.ts
+XXX: Brunette TV,http://starshare.live:8080/live/543678/546789/6190.ts
+XXX: Compilation TV,http://starshare.live:8080/live/543678/546789/6191.ts
+XXX: Gangbang TV,http://starshare.live:8080/live/543678/546789/6192.ts
+XXX: Hardcore TV,http://starshare.live:8080/live/543678/546789/6193.ts
+XXX: Interracial TV,http://starshare.live:8080/live/543678/546789/6194.ts
+XXX: Latina TV,http://starshare.live:8080/live/543678/546789/6195.ts
+XXX: Lesbian TV,http://starshare.live:8080/live/543678/546789/6196.ts
+XXX: MILF TV,http://starshare.live:8080/live/543678/546789/6197.ts
+XXX: Pornstar TV,http://starshare.live:8080/live/543678/546789/6198.ts
+XXX: POV TV,http://starshare.live:8080/live/543678/546789/6199.ts
+XXX: Rough TV,http://starshare.live:8080/live/543678/546789/6200.ts
+XXX: Russian TV,http://starshare.live:8080/live/543678/546789/6201.ts
+XXX: Teen TV,http://starshare.live:8080/live/543678/546789/6202.ts
+XXX: Threesome TV,http://starshare.live:8080/live/543678/546789/6203.ts
+XXX: FAST BOYZ GAY,http://starshare.live:8080/live/543678/546789/6204.ts
+XXX: CANDYMAN GAY,http://starshare.live:8080/live/543678/546789/6205.ts
+ANTV,http://id2.indostreamingtv.com/live/antv/index.m3u8
+BERITA SATU NEWS,http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
+CNBC INDONESIA,http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8
+CELESTELIAL MOVIES,http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8
+CNN INDONESIA,https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2099542994_b384000_sleng.m3u8
+DANGDUT TV,http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
+FIRST MEDIA,http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8?fluxustv.m3u8
+GLOBAL TV,https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
+INDONESIA CHANNEL,http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
+PAL TV HD,http://stream1.ninmedia.tv/paltv/rtmp.stream_360p/playlist.m3u8
+RTV,http://45.126.83.51/qwr9ew/s/s12/01.m3u8
+SENEMA INDONESIA HD,http://210.210.155.35/session/44f6d74a-01a1-11ea-b55a-9182955aa916/x6bnqe/s/s71/S4/mnf.m3u8
+THRILL HD,http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
+TVRI Sports,http://210.210.155.35/session/69e800f6-97c0-11e9-888f-b82a72d63267/qwr9ew/s/s107/index.m3u8
+Indosiar,http://203.153.218.28:9981/stream/channelid/261435212?ticket=B10B2C8D7C5EF65FE04AEAF62383D6B3647ED987&profile=pass
+I NEWS TV,https://live.rctiplus.id/rctiplus/inews_720p.m3u8
+JAKARTA GLOBE,http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+JGO TV,http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
+KARAOKE TV,http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8
+Maleo,http://stream1.ninmedia.tv/maleo/udp.stream_360p/playlist.m3u8
+MIOMY TV,https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
+MNC TV,https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
+NET TV,http://id2.indostreamingtv.com/live/nettv/index.m3u8
+NU TV,http://stream1.ninmedia.tv/nuchannel/udp.stream_360p/playlist.m3u8
+RCTI,https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
+RTM 1,http://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b764000.m3u8
+RTM 2,http://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b764000.m3u8
+SCTV,http://id1.indostreamingtv.com/live/sctv/index.m3u8
+TRANS 7,https://video.detik.com/trans7/smil:trans7.smil/chunklist_w63099618_b384000_sleng.m3u8
+TRANS TV,https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1678042997_b384000_sleng.m3u8
+NET TV,http://210.210.155.35/qwr9ew/s/s08/01.m3u8
+NET TV,http://210.210.155.35/qwr9ew/s/s08/02.m3u8
+KOMPAS TV,http://210.210.155.35/session/69927436-1aa3-11ea-a103-acecbc14f551/qwr9ew/s/s104/01.m3u8
+METRO TV,http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/master.m3u8
+METRO TV,http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
+INDOSIAR,http://210.210.155.35/session/4a2efd20-a94d-11e9-bbad-c81f66f89318/qwr9ew/s/s04/02.m3u8
+RCTV,http://stream1.ninmedia.tv/rctv/rtmp.stream_360p/playlist.m3u8
+RUMAH TV,http://stream2.ninmedia.tv/rumahtv/rtmp.stream_360p/playlist.m3u8
+NABAWI TV,http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8
+Ahsan TV,http://119.82.224.75:1935/live/ahsantv/chunk.m3u8
+TAHFIDZ TV,http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8
+TAWAFTV,http://stream2.ninmedia.tv/tawaftv/rtmp.stream_360p/chunklist_w720255703.m3u8
+AL Bahjah,https://edge.siar.us/albahjahtv/live/playlist.m3u8
+TVKU,http://103.30.1.14:8080/hls/live.m3u8
+USEE PHOTO,https://livetvhooq.akamaized.net/c37364587aeb4050bd51a0b8068e976f/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569566771~exp=9007200824307762~acl=/c37364587aeb4050bd51a0b8068e976f/*/profile_2/chunklist.m3u8*~hmac=d444d67dbe78b01ffba4e087441366bd8243619ec7724cde63d884707c5a2cf9
+Spacetoon,http://livecdnh2.tvanywhere.ae/hls/spacetoon/index.m3u8
+Tom & Jerry TV,https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
+LARVA TV,http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv
+KurdMax Papule,http://31.14.40.139:1935/liveTrans/Kurmanci/chunklist.m3u8
+Kuriakos Kids,http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8?fluxustv.m3u8
+3ABN KIDS TV,https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
+ToonMax,http://rr2.dens.tv/s/s50/01.m3u8
+Kurokoai Basketball,http://aldirect.hls.huya.com/huyalive/94525224-2604793726-11187503865995984896-3049003148-10057-A-0-1_1200.m3u8
+DRAGON BALL KAI TV,http://ws.flv.nimo.tv/live/su1599512427624rcac6e81bb9277a4fe258348bcfa63c82_high.flv
+DRAGON BALL Z TV,https://ws.flv.nimo.tv/live/su1599512427558r464ce7577525c715f04419095ae6abeb_high.flv
+Boruto TV,http://ws.flv.nimo.tv/live/su1599512427615r0c4ed6161b23b4d2892824141e30f13b_high.flv
+Captain Stubasa 2019 TV,http://ws.flv.nimo.tv/live/su1599512427630rb9a94d5f0fa60cec1044ec85fbd76da7_high.flv
+DETECTIFE CONAN 1 TV,http://ws.flv.nimo.tv/live/su1599512427577r176a7daa9302ccecdda91e18ea9be73e_high.flv
+DETECTIFE CONAN 2 TV,http://ws.flv.nimo.tv/live/su1599512427561r32f86ec41ff353df5fd649beb68e6388_high.flv
+DETECTIFE CONAN 3 TV,http://ws.flv.nimo.tv/live/su1599512427572re6b4d2bfbd968a965107eafabdad5184_high.flv
+DORAEMON SERIES,http://ws.flv.nimo.tv/live/su1599512427553r467469e0bc83c5de73f4d151682fb530_high.flv?fluxustv.flv
+DORAEMON MOVIE,http://ws.flv.nimo.tv/live/su1599512427578r00bac8d56488f6ca2d6915fb95ab88e8_high.flv?fluxustv.flv
+HUNTER X HUNTER,http://ws.flv.nimo.tv/live/su1599512427562r89436fcde4d4278fc2e87c8600d465e1_high.flv
+INUYASHA,http://ws.flv.nimo.tv/live/su1599512427565r2d969c0672b18115ac596b0bdea6e535_high.flv
+TOTALLY SPIES,http://ws.flv.nimo.tv/live/su1599512427585r47e5a2be5769b2ce776bc4a992c9f6fd_high.flv
+ONE PIECE TV,http://ws.flv.nimo.tv/live/su1599512427600r01fea2f56268e5a32e8e1d5c6dad7ede_high.flv
+ONE PUNCH MAN,http://ws.flv.nimo.tv/live/su1599512427559r6319ab6314a165d28a228bf5917d1fe0_high.flv
+Animal Planet,http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass
+Asian Food Channel,http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B739BCAB7412D568D65147A93&profile=pass
+ASTRO,http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+AXN,http://203.153.218.28:9981/stream/channelid/882386103?ticket=DF543FFEC6C497F485D61A1907E83292A2DB1741&profile=pass
+Blue Ant Extreme,http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EDA811CE90A26AD414D02B63E0A9171A68A9454C&profile=pass
+Cartoon Network,http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass
+DAVINCI KIDS,http://213.174.8.7:11111/index.m3u8
+Discovery Channel,http://203.153.218.28:9981/stream/channelid/1151931232?ticket=D05F5F5AB713CBADFBFABB642E4F37D5004BB751&profile=pass
+Disney Channel,http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
+DISNEY JUNIOR,http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+EBS KIDS,http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+NAT PEOPLE,http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
+NAT GEO WILD,http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+NAT GEO,http://livecdnh1.TVanywhere.ae/hls/nat_geo/05.m3u8?
+Nickelodeon Asia,http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass
+BABT FIRST,http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+TOM & JERRY,http://aldirect.hls.huya.com/huyalive/94525224-2679664054-11509069476196777984-2847687532-10057-A-0-1.m3u8
+PLUTO MOVIES,http://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+SPACETOON,http://95.170.215.109:80/hls/m3u8/Spacetoon-Backup.m3u8
+WOWON MOVIES,http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
+ANDY LAU,http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8
+CHOW YOUN FAT,http://aldirect.hls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1_1200.m3u8
+CINNEMAX,http://203.153.218.28:9981/stream/channelid/255605374?ticket=434549F6D027878D70C7F1F479D0C3495B16099D&profile=pass
+THRILL,http://210.210.155.35:80/session/9ab7f404-73b5-11e9-813d-85409622318e/qwr9ew/s/s34/01.m3u8
+MY CINEMA,http://210.210.155.35/x6bnqe/s/s31/index2.m3u8
+FILM 1,http://tx.hls.huya.com/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1.m3u8
+FILM 2,http://tx.hls.huya.com/huyalive/30765679-2484192708-10669526437821677568-3049003172-10057-A-0-1.m3u8
+FILM 3,http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
+FILM 4,http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+FILM 5,http://tx.hls.huya.com/huyalive/30765679-2591336344-11129704850416205824-3048991622-10057-A-0-1.m3u8
+FILM 6,http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+FILM 7,http://aldirect.hls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200.m3u8
+RAI PREMIUM,http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
+RAI YOYO,http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
+BOOGELE BOOLYWOOD,http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+FOX FILM MOVIES,http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
+FOX MOVIES,http://203.153.218.28:9981/stream/channelid/756717990?ticket=D9CDD7DB18E80023C22954FE693F71DB745D5CE7&profile=pass
+HBO FAMILY,http://203.153.218.28:9981/stream/channelid/1316004766?ticket=8603609D96360D7B639AB97584FF09E1086B3284&profile=pass
+HBO HITS,http://203.153.218.28:9981/stream/channelid/2038175895?ticket=0299B4C37DF5A2B463E83E4FFD9AD1E91BA48253&profile=pass
+HBO SIGNATURE,http://203.153.218.28:9981/stream/channelid/1197019186?ticket=96AB9AD0536B1000E515E3219100C78A9625CAE3&profile=pass
+History Channel,http://203.153.218.28:9981/stream/channelid/1868154562?ticket=21CAD98B63EE6B1D16AFD5B33F7C68F48FA445CD&profile=pass
+SAMO HUNG,http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8
+STAR MOVIES,http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+STAR WORLD,http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
+BEIN SPORT 2,http://125.227.210.37:8886/VideoInput/play.ts
+FLOW SPORT,http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
+FOX SPORT 2,http://27.254.149.109:8081/tumlive/Foxsport2/playlist.m3u8
+REAL MADRID TV,http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+RTSH SPORT,http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
+SETANTA SPORT+,http://ott-cdn.ucom.am/s82/03.m3u8
+SETANTA SPORT,http://ott-cdn.ucom.am/s81/03.m3u8
+X SPORT,http://95.67.103.251/hls/xsport_ua_hi/index.m3u8
+RAI MOVIE HD,http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+Abu Dhabi Sports 3,http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
+Sport 1 FeedOn,http://ott-cdn.ucom.am/s41/04.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+Family Sport 6 FeedOn,http://182.73.122.74:10001/bysid/706
+Fight Sports,http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8
+Fanatik TV,http://mn-nl.mncdn.com/fanatik_livestream/smil:fanatik.smil/chunklist_b996000.m3u8
+Fight Box,http://92.43.140.249/s86/04.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+PACUAN KUDA 1,http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
+PACUAN KUDA 2,https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8
+KARAOKE CHANNEL,http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8
+Pop Musik,http://stream1.ninmedia.tv/popmusik/udp.stream_360p/playlist.m3u8
+MUSICB,http://zaman-now.com/锘縵xtvxz锘?MusicB
+Dangdutz TV,http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/chunklist_b2288000.m3u8
+Netflix LIVE Movies 1,https://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+Netflix LIVE Movies 2,https://aldirect.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1_1200.m3u8
+Netflix LIVE Movies 4,https://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+Netflix LIVE Movies 5,https://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+Netflix LIVE Movies 6,https://aldirect.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+Netflix LIVE Movies 7,https://aldirect.hls.huya.com/huyalive/28466698-2689654156-11551976637570482176-2847699186-10057-A-0-1_1200.m3u8
+Netflix LIVE Movies 8,https://aldirect.hls.huya.com/huyalive/29169025-2686221732-11537234488744476672-2847699168-10057-A-0-1_1200.m3u8
+Netflix LIVE Movies 9,https://aldirect.hls.huya.com/huyalive/30765679-2523417175-10837994240789708800-2789253884-10057-A-0-1_1200.m3u8
+Netflix LIVE Movies 10,https://aldirect.hls.huya.com/huyalive/30765679-2475713500-10633108516765696000-2789274576-10057-A-0-1_1200.m3u8
+Netflix LIVE Movies 11,https://dl.dropbox.com/s/nzd3ekunnrbkh60/Dubaimovie.m3u8?dl=0
+Netflix LIVE Movies 12,https://aldirect.hls.huya.com/huyalive/29169025-2686220680-11537229970438881280-2847687524-10057-A-0-1_1200.m3u8
+Netflix LIVE Movies 13,https://aldirect.hls.huya.com/huyalive/30765679-2523417353-10837995005293887488-2847699118-10057-A-0-1_1200.m3u8
+Netflix LIVE Movies 14,https://aldirect.hls.huya.com/huyalive/94525224-2472147404-10617792251071299584-2777026638-10057-A-0-1_1200.m3u8
+Netflix LIVE Movies 15,https://aldirect.hls.huya.com/huyalive/94525224-2701055008-11600942924057018368-2847687618-10057-A-0-1_1200.m3u8
+Netflix LIVE Movies 16,https://aldirect.hls.huya.com/huyalive/94525224-2468571348-10602433207502635008-2789253864-10057-A-0-1_1200.m3u8
+Netflix LIVE Movies 17,https://aldirect.hls.huya.com/huyalive/30765679-2682197822-11519951926892429312-2847699094-10057-A-0-1_1200.m3u8
+Netflix LIVE Movies 18,https://aldirect.hls.huya.com/huyalive/29359996-2689607114-11551774593718943744-2847687530-10057-A-1525492553-1_1200.m3u8
+SINEMA INDONESIA,http://210.210.155.35:80/session/670515de-73b9-11e9-8f02-846587341add/x6bnqe/s/s71/S4/mnf.m3u8
+Black Cinema,https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+HBO,https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
+HBO,http://cableserver1.cableguy.pro:82/live?cId=491&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
+HBO 2,http://cableserver1.cableguy.pro:82/live?cId=376&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
+HBO 3,http://cableserver1.cableguy.pro:82/live?cId=377&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
+HBO Hits,https://www.livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
+HBO Signature,https://www.livedoomovie.com/02_HBOSignature_720p/chunklist.m3u8
+Red by HBO,https://www.livedoomovie.com/02_RedbyHBO_720p/chunklist.m3u8
+FOX,https://www.livedoomovie.com/02_FoxThai_720p/chunklist.m3u8
+Fox Action Movies,https://www.livedoomovie.com/02_FoxActionHD_TH_720p/chunklist.m3u8
+Fox Action Movies,https://www.livedoomovie.com/02_FoxActionHD_720p/chunklist.m3u8
+FOX Action Movies,http://cableserver1.cableguy.pro:82/live?cId=1665&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
+FOX Family Movies,https://www.livedoomovie.com/02_FoxFamilyHD_720p/chunklist.m3u8
+Fox Movies,https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
+FOX Life,https://www.livedoomovie.com/02_FOX_Life_HD_720p/chunklist.m3u8
+FOX Life,http://cableserver1.cableguy.pro:82/live?cId=650&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
+FOX Crime,http://cableserver1.cableguy.pro:82/live?cId=1666&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
+CINEMA WORLD SD,http://210.210.155.35/session/833fafca-11cb-11e9-a870-c81f66f89318/uq2663/h/h04/02.m3u8
+CINEMA WORLD,http://210.210.155.35:80/session/1be19ff4-7252-11e9-8405-a92a8c3111c3/uq2663/h/h04/02.m3u8
+CINEMA WORLD,http://45.126.83.51/uq2663/h/h04/index2.m3u8
+CinemaWorld Malaysia,http://45.126.83.51:443/uq2663/h/h04/01.m3u8
+CinemaWorld Malaysia,http://210.210.155.35/uq2663/h/h04/02.m3u8
+MY CINEMA,http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
+Cinemax,http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F246B23011407540BE9B0E50&profile=pass
+HITS,http://45.126.83.51/uq2663/h/h37/01.m3u8
+HITS HD,http://210.210.155.35:80/session/65ec035a-73b5-11e9-b55c-a0bcb43577ab/uq2663/h/h37/01.m3u8
+Thrill SD,http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8
+Thrill,http://210.210.155.35/session/5fa607b4-c313-11e8-ac17-b82a72d63267/qwr9ew/s/s34/01.m3u8
+ZEE Aflam,http://livecdnh3.tvanywhere.ae:80/hls/zeeaflam/index.m3u8
+ZEE World,http://161.0.157.7/PLTV/88888888/224/3221226542/index.m3u8
+Warner TV,https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
+FX,https://www.livedoomovie.com/02_FXThailand_720p/chunklist.m3u8
+STAR MOVIES,http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
+Hollywood Movies 6,http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+Hollywood Movies 7,http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
+Hollywood Movies 8,http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+Hollywood Movies 10,http://aldirect.hls.huya.com/huyalive/30765679-2499070088-10733424298371842048-2789274548-10057-A-1521102596-1_1200.m3u8
+Hollywood Movies 12,http://tx.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
+Mandarin Movies 1,http://aldirect.hls.huya.com/huyalive/29169025-2686221304-11537232650498473984-2789253854-10057-A-0-1_1200.m3u8
+Mandarin Movies 4,http://tx.hls.huya.com/huyalive/30765679-2689675828-11552069718101721088-3048991626-10057-A-0-1.m3u8
+Mandarin Movies 5,http://tx.hls.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1.m3u8
+Mandarin Movies 6,http://tx.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1.m3u8
+Mandarin Movies 7,http://tx.hls.huya.com/huyalive/30765679-2484192476-10669525441389264896-2789274564-10057-A-0-1.m3u8
+Mandarin Movies 8,http://tx.hls.huya.com/huyalive/29169025-2686219938-11537226783573147648-2847699096-10057-A-1524024759-1.m3u8
+Animax,http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
+Animax,http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
+Aniplus,http://210.210.155.35:80/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+Aniplus,http://45.126.83.51/dr9445/h/h02/index.m3u8
+Aniplus,http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+Miao Mi,https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8?fluxustv.m3u8
+Disney Junior,http://103.47.132.164:80/PLTV/88888888/224/3221226011/04.m3u8
+My Kids,http://45.126.83.51:80/session/ed35b066-8776-11e9-8be0-b73f998c1fa0/x6bnqe/s/s113/index.m3u8
+RTV,http://210.210.155.35/session/916c75e4-0647-11ea-b42d-c81f66f89318/qwr9ew/s/s12/02.m3u8
+Spacetoon,http://livecdnh2.tvanywhere.ae/hls/spacetoon/04.m3u8
+EBS Kids,http://ebsonair.ebs.co.kr:1935/ebsufamilypc/familypc1m/playlist.m3u8
+Knowledge Kids,http://knstream1.azureedge.net/knlive/knlive_high.m3u8
+KTV,http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv4
+SAT 7 Kids,http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/chunklist_w918104804.m3u8
+TeleToon,http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8
+DISNEY JUNIOR Indo SD,http://103.47.132.164/PLTV/88888888/224/3221226011/02.m3u8
+Clubbing TV,https://livetvhooq.akamaized.net/923e04bf28d6488e85831094a2cfc33d/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1574859145~exp=9007200829600136~acl=/923e04bf28d6488e85831094a2cfc33d/*/profile_2/chunklist.m3u8*~hmac=f08709f141d2907969261ab7dc1b638b736757339dffbc26332eccee434e6654
+KARAOKE CHANNEL,http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b420000.m3u8
+MIX MUSIC,http://edge.linknetott.swiftserve.com/channelgroup2/cg220production/ch364/05.m3u8
+MTV,https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+RADIO M20,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+RETRO TV,http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
+Jasmin TV,http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1190948669.m3u8
+Jasmin TV,http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1639491303.m3u8
+Jasmin TV,http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w815696992.m3u8
+Jasmin TV,http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+Jasmin TV,http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist_w513145911.m3u8
+Jasmin TV,http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
+Jasmin TV,http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
+Jasmin TV,http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+Miami TV Jenny Live,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
+RedTraffic Big Ass,http://live.redtraffic.xyz/bigass.m3u8
+RedTraffic Big Dick,http://live.redtraffic.xyz/bigdick.m3u8
+RedTraffic Big Tits,http://live.redtraffic.xyz/bigtits.m3u8
+RedTraffic Cuckold,http://live.redtraffic.xyz/cuckold.m3u8
+RedTraffic Fetish,http://live.redtraffic.xyz/fetish.m3u8
+RedTraffic Hardcore,http://live.redtraffic.xyz/hardcore.m3u8
+RedTraffic Interracial,http://live.redtraffic.xyz/interracial.m3u8
+RedTraffic Latina,http://live.redtraffic.xyz/latina.m3u8
+RedTraffic Lesbian,http://live.redtraffic.xyz/lesbian.m3u8
+RedTraffic MILF,http://live.redtraffic.xyz/milf.m3u8
+RedTraffic Pornstar,http://live.redtraffic.xyz/pornstar.m3u8
+RedTraffic POV,http://live.redtraffic.xyz/pov.m3u8
+RedTraffic Russian,http://live.redtraffic.xyz/russian.m3u8
+RedTraffic Teen,http://live.redtraffic.xyz/teen.m3u8
+RedTraffic Threesome,http://live.redtraffic.xyz/threesome.m3u8
+Jasmin HD 18+,http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8#EXTINF:0,http://layarcinema21.fun/tag/lebahganteng21/
 
 
